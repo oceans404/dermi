@@ -8,7 +8,7 @@ import { PORT } from "./config.js";
 import { createApp } from "./app.js";
 import type { CompiledIndex } from "./types.js";
 
-const dataPath = resolve(import.meta.dirname, "../data/compiled-index.json");
+const dataPath = resolve(import.meta.dirname, "../../data/compiled-index.json");
 const index: CompiledIndex = JSON.parse(readFileSync(dataPath, "utf-8"));
 
 const app = await createApp(index);

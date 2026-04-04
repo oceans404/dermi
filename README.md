@@ -24,7 +24,7 @@ No API keys. No signup. $0.01 USDC per check on Stellar. A no-brainer when the a
 
 ## OWS on Stellar
 
-At first, Dermi worked on any OWS x402-supported chain (EVM). But I wanted to extend OWS to work on Stellar, so I forked [open-wallet-standard/core](https://github.com/open-wallet-standard/core) to add Stellar payments and x402 support and used Dermi to battle-test it end to end. I'm planning a PR to the core repo after the hackathon
+At first, Dermi worked on any OWS x402-supported chain (EVM). But I wanted to extend OWS to work on Stellar, so I forked OWS to [oceans404/open-wallet-standard/core](https://github.com/oceans404/core) to add Stellar payments and x402 support and used Dermi to battle-test it end to end. I'm planning a PR to the core repo after the hackathon
 
 ### Using the OWS on Stellar fork
 
@@ -46,7 +46,7 @@ The `ows` binary is at `core/ows/target/release/ows`. Create a wallet and start 
   --network stellar:pubnet \
   --method POST \
   --body '{"ingredients": ["coconut oil"]}' \
-  https://your-dermi-url.example.com/check-skincare-ingredients
+  https://dermi-znuq.onrender.com/check-skincare-ingredients
 ```
 
 See **[BUYER_SETUP.md](BUYER_SETUP.md)** for complete wallet funding and trustline setup.
@@ -91,7 +91,7 @@ ows pay request \
   --network stellar:pubnet \
   --method POST \
   --body '{"ingredients": ["coconut oil", "niacinamide", "shea butter"]}' \
-  https://your-dermi-url.example.com/check-skincare-ingredients
+  https://dermi-znuq.onrender.com/check-skincare-ingredients
 ```
 
 ```
