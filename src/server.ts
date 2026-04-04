@@ -1,4 +1,4 @@
-import { readFileSync } from "node:fs";
+import { readFileSync, existsSync } from "node:fs";
 import { resolve } from "node:path";
 import dotenv from "dotenv";
 
@@ -8,7 +8,11 @@ import { PORT } from "./config.js";
 import { createApp } from "./app.js";
 import type { CompiledIndex } from "./types.js";
 
-const dataPath = resolve(import.meta.dirname, "../../data/compiled-index.json");
+// Works from both src/ (dev) and dist/src/ (production)
+const dataPath = [
+  resolve(import.meta.dirname, "../data/compiled-index.json"),
+  resolve(import.meta.dirname, "../../data/compiled-index.json"),
+].find(p => existsSync(p))!;
 const index: CompiledIndex = JSON.parse(readFileSync(dataPath, "utf-8"));
 
 const app = await createApp(index);
