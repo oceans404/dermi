@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "name": "CeraVe Moisturizing Cream",
+      "ingredients": ["Purified Water", "Glycerin", "Ceteareth-20", "Cetearyl Alcohol", "Mineral Oil", "Petrolatum", "Dimethicone"]
+    },
+    {
+      "name": "The Ordinary Niacinamide",
+      "ingredients": ["Aqua", "Niacinamide", "Pentylene Glycol", "Zinc PCA"]
+    },
+    {
+      "name": "High Comedogenic Product",
+      "ingredients": ["Coconut Oil", "Isopropyl Myristate", "Cocoa Butter", "Lanolin", "Algae Extract"]
+    }
+  ]
+}

@@ -1,0 +1,1893 @@
+[
+  {
+    "name": "A & D Additive",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "A13-00356",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Acai Berry Oil",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Acetol",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Acetulan",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Acetylated Lanolin",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Acetylated Lanolin Alcohol",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Active Soil",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Adamosis Stearate",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Ahnfeltia Concinna",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Akyposal SDS",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Alaria Esculenta",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Algae",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Algae Extract",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Algin (Algae)",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Almond Oil",
+    "aliases": [
+      "Sweet Almond Oil"
+    ],
+    "rating": 2
+  },
+  {
+    "name": "Aloe Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Amaranth Oil",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Amberlate P",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Amerchol",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Andiroba Seed Oil",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Anhydrous Lanolin",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Apricot Kernel Oil",
+    "aliases": [
+      "Prunus Armeniaca Kernel Oil"
+    ],
+    "rating": 5
+  },
+  {
+    "name": "Apricot Oil",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Apricot Seed Oil",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Aquarex ME",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Aquarex Methyl",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Arachidonic Acid in Sunflower Oil",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Argan Oil",
+    "aliases": [
+      "Argania Spinosa",
+      "Argania Spinosa (Argan) Kernel Oil",
+      "Argania Spinosa Oil"
+    ],
+    "rating": 4
+  },
+  {
+    "name": "Ascophyllum Nodosum",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Ascorbyl Palmitate",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Astrocaryum Murumuru Seed Butter",
+    "aliases": []
+  },
+  {
+    "name": "Avocado Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Avocado Oil",
+    "aliases": [
+      "Persea Gratissima Oil"
+    ],
+    "rating": 4
+  },
+  {
+    "name": "Babassu Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Babassu Oil",
+    "aliases": [
+      "Orbignya Oleifera Kernel Oil"
+    ],
+    "rating": 2
+  },
+  {
+    "name": "Baobab Oil",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Beeswax",
+    "aliases": [
+      "Cera Alba"
+    ],
+    "rating": 2
+  },
+  {
+    "name": "Behenic Acid",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Black Cumin Seed Oil",
+    "aliases": [
+      "Nigella Sativa Seed Oil"
+    ],
+    "rating": 4
+  },
+  {
+    "name": "Black Kelp",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Black Raspberry Seed Oil",
+    "aliases": [
+      "Rubus Occidentalis Seed Oil"
+    ],
+    "rating": 2
+  },
+  {
+    "name": "Bladderwrack",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Blue Algae",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Blue Green Algae",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Borage Oil",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Brazil Nut Oil",
+    "aliases": [
+      "Bertholletia Excelsa Seed Oil"
+    ],
+    "rating": 3
+  },
+  {
+    "name": "Broccoli Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Brown Algae",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Buriti Oil",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Butyl Stearate",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "C73-74 Isoparaffin",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Camellia Oil",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Camphor Oil",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Canola Oil",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Capric Acid",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Capric Acid in Sunflower Oil",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Caprylic Acid",
+    "aliases": [],
+    "rating": 1
+  },
+  {
+    "name": "Capsicum Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Carrageenan Moss",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Carrot Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Carrot Seed Oil",
+    "aliases": [
+      "Daucus Carota Seed Oil"
+    ],
+    "rating": 4
+  },
+  {
+    "name": "Castor Oil",
+    "aliases": [
+      "Ricinus Communis Seed Oil"
+    ],
+    "rating": 2
+  },
+  {
+    "name": "Ceteareth 20",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Ceteareth 6 Olivate",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Cetearyl Alcohol",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Cetearyl Alcohol + Ceteareth 20",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Cetearyl Olivate",
+    "aliases": []
+  },
+  {
+    "name": "Cetyl Acetate",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Chamomile Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Cherry Kernel Oil",
+    "aliases": [
+      "Prunus Avium Seed Oil"
+    ],
+    "rating": 2
+  },
+  {
+    "name": "Cheru Seed Oil",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Chia Seed Oil",
+    "aliases": [
+      "Salvia Hispanica Seed Oil"
+    ],
+    "rating": 3
+  },
+  {
+    "name": "Chlorella",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Chlorella Botanicals",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Chlorella Vulgaris Extract",
+    "aliases": []
+  },
+  {
+    "name": "Chondrus Crispus",
+    "aliases": [
+      "Chondrus Crispus Extract"
+    ],
+    "rating": 3
+  },
+  {
+    "name": "Chullu (Wild Apricot) Seed Oil",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Cinnamon Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Coal Tar",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Cocoa Butter",
+    "aliases": [
+      "Theobroma Cacao Seed Butter",
+      "Theobroma Cacao (Cocoa) Seed Butter"
+    ],
+    "rating": 4
+  },
+  {
+    "name": "Coconut Butter",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Coconut Oil",
+    "aliases": [
+      "Cocos Nucifera Oil",
+      "Cocos Nucifera (Coconut) Oil"
+    ],
+    "rating": 5
+  },
+  {
+    "name": "Coconut Oil, Fractionated",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Coffee Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Colloidal Sulfur",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Corallina Officinalis",
+    "aliases": [
+      "Corallina Officinalis Extract"
+    ],
+    "rating": 3
+  },
+  {
+    "name": "Corn Oil",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Cotton Awws",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Cotton Seed Oil",
+    "aliases": [
+      "Gossypium Herbaceum Seed Oil"
+    ],
+    "rating": 3
+  },
+  {
+    "name": "Cranberry Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Cranberry Oil",
+    "aliases": [
+      "Vaccinium Macrocarpon Seed Oil"
+    ],
+    "rating": 3
+  },
+  {
+    "name": "Crisco",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Cypress Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "D&C Red No. 1 (Red 1)",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "D&C Red No. 17 (Red 17)",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "D&C Red No. 19 (Red 19)",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "D&C Red No. 2 (Red 2)",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "D&C Red No. 21 (Red 21)",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "D&C Red No. 27 (Red 27)",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "D&C Red No. 3 (Red 3)",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "D&C Red No. 30 (Red 30)",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "D&C Red No. 35 (Red 35) in Pentaerythrital Tetra Capra",
+    "aliases": [
+      "Caprylate"
+    ],
+    "rating": 2
+  },
+  {
+    "name": "D&C Red No. 36 (Red 36)",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "D&C Red No. 36 (Red 36) in Mineral Oil",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "D&C Red No. 4 (Red 4)",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "D&C Red No. 40 (Red 40)",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Date Seed Oil",
+    "aliases": [
+      "Phoenix Dactylifera Seed Extract"
+    ],
+    "rating": 3
+  },
+  {
+    "name": "Decyl Oleate",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Dhupa Seed Oil",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Di",
+    "aliases": [
+      "2 Ethylhexyl"
+    ],
+    "rating": 2
+  },
+  {
+    "name": "Dilsea Carnosa",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Dioctyl Malate",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Dioctyl Succinate",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Disodium Monooleamido PEG 2-Sulfosuccinate",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Dulse",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Ecklonia",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Eicosanoic Acid",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Elderberry Seed Oil",
+    "aliases": [
+      "Sambucus Nigra Oil"
+    ],
+    "rating": 2
+  },
+  {
+    "name": "Emu Oil",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Emulsifying Wax NF",
+    "aliases": []
+  },
+  {
+    "name": "Enteromorpha Compressa",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Ethoxylated Lanolin",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Ethylhexyl Palmitate",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Ethylhexyl Pelargonate",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Evening Primrose Oil",
+    "aliases": [
+      "Oenothera Biennis Oil"
+    ],
+    "rating": 3
+  },
+  {
+    "name": "Flaxseed Oil",
+    "aliases": [
+      "Linseed Oil",
+      "Linseed"
+    ],
+    "rating": 4
+  },
+  {
+    "name": "Fucus Vesiculosus",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Gelidium Cartilagineum",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Ginger Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Glyceryl Oleate",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Glyceryl Stearate SE",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Glyceryl-3-Diisostearate",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Grapeseed Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Grapeseed Oil",
+    "aliases": [
+      "Vitis Vinifera Seed Oil"
+    ],
+    "rating": 3
+  },
+  {
+    "name": "Green Algae",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Green Tea Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Guava Seed Oil",
+    "aliases": [
+      "Psidium Guajava Seed Oil"
+    ],
+    "rating": 2
+  },
+  {
+    "name": "Haslea Ostrearia",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Hazelnut Seed Oil",
+    "aliases": [
+      "Corylus Avellana Seed Oil"
+    ],
+    "rating": 5
+  },
+  {
+    "name": "Hemp Seed Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Hexadecyl Alcohol",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Hexyl Laurate",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Himanthalia Elongate",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Hydrogenated Castor Oil",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Hydrogenated Vegetable Oil",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Hydrolyzed Lola Implexa",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Hydrolyzed Rhodophycea",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Hypnea Musciformis",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Illipe Butter",
+    "aliases": [
+      "Shorea Stenoptera"
+    ],
+    "rating": 5
+  },
+  {
+    "name": "Irish Moss",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Isocetyl Alcohol",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Isocetyl Stearate",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Isodecyl Oleate",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Isopropyl Isostearate",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Isopropyl Linolate",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Isopropyl Myristate",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Isopropyl Palmitate",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Isostearic Acid",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Isostearyl Isostearate",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Isostearyl Neopentanoate",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Jasmine Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Jojoba Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Jojoba Oil",
+    "aliases": [
+      "Simmondsia Chinensis Seed Oil",
+      "Simmondsia Chinensis (Jojoba) Seed Oil"
+    ],
+    "rating": 2
+  },
+  {
+    "name": "Jojoba Wax",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Kapok Oil",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Karanja Oil",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Kasum Oil",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Kelp",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Knotted Kelp",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Kokum Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Kukui Nut Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Kukui Nut Oil",
+    "aliases": [
+      "Aleurites Moluccana Seed Oil"
+    ],
+    "rating": 3
+  },
+  {
+    "name": "Laminaria",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Laminaria Digitata Extract",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Laminaria Longicruris",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Laminaria Ochroleuca Extract",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Laminaria Saccharina",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Laneth-10",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Lanolic Acid",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Lanolin",
+    "aliases": [
+      "Lanolin Oil"
+    ],
+    "rating": 3
+  },
+  {
+    "name": "Lanolin Acid",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Lanolin Alcohol",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Lanolin Wax",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Laureth-23",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Laureth-4",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Laureth-7",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Lauric Acid",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Lauric Acid in Sunflower Oil",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Lauroyl Lysine",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Lauryl Alcohol",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Lauryl Olivate",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Lavender Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Lemon Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Lemongrass Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Lime Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Lithothamnium Calcareum",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Lola Implexa",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Macadamia Nut Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Macadamia Nut Oil",
+    "aliases": [
+      "Macadamia Ternifolia/Integrifolia Seed Oil"
+    ],
+    "rating": 5
+  },
+  {
+    "name": "Macrocystis Pyrifera",
+    "aliases": [
+      "Sea Kelp"
+    ],
+    "rating": 3
+  },
+  {
+    "name": "Magnesium Myristate",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Mahua Seed Oil",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Mandarin Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Mangifera Indica Seed Butter",
+    "aliases": [
+      "Mango Butter"
+    ],
+    "rating": 2
+  },
+  {
+    "name": "Mango Seed Oil",
+    "aliases": [
+      "Mangifera Indica Seed Oil"
+    ],
+    "rating": 2
+  },
+  {
+    "name": "Marigold Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Marine Algae",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Marula Oil",
+    "aliases": [
+      "Sclerocarya Birrea Seed Oil"
+    ],
+    "rating": 4
+  },
+  {
+    "name": "Mastocarpus Stellatus",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Meadowfoam Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Mink Oil",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Moringa Oil",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Mowrah Butter",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Myreth 3 Myristate",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Myristic Acid",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Myristyl Alcohol",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Myristyl Lactate",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Myristyl Myristate",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Nahor Seed Oil",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Neem Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Neem Oil",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Neroli Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Nori",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Norwegian Kelp",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Octyl Palmitate",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Octyl Stearate",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Oleic Acid",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Oleth-10",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Oleth-3",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Oleth-3 Phosphate",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Oleth-5",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Oleyl Alcohol",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Olive Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Olive Oil",
+    "aliases": [
+      "Olea Europaea (Olive) Fruit Oil",
+      "Olea Europaea Fruit Oil"
+    ],
+    "rating": 5
+  },
+  {
+    "name": "Olive Oil PEG 7 Esters",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Orange Peel Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Padina Pavonica",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Palash Oil",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Palm Kernel Oil",
+    "aliases": [
+      "Elaeis Guineensis Kernel Oil"
+    ],
+    "rating": 5
+  },
+  {
+    "name": "Palm Oil (Elaeis Guineensis Oil)",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Palm Oil Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Palm Oil, Red",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Palmaria Palmata",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Palmitic Acid",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Papaya Seed Oil",
+    "aliases": [
+      "Carica Papaya Seed Oil"
+    ],
+    "rating": 3
+  },
+  {
+    "name": "Passionfruit (Maracuja) Seed Oil",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Peach Kernel Oils",
+    "aliases": [
+      "Prunus Persica Kernel Oil"
+    ],
+    "rating": 4
+  },
+  {
+    "name": "Peanut Oil",
+    "aliases": [
+      "Arachis Hypogaea Oil",
+      "Groundnut Oil"
+    ],
+    "rating": 3
+  },
+  {
+    "name": "Pecan Oil",
+    "aliases": [
+      "Carya Illinoensis Seed Oil"
+    ],
+    "rating": 2
+  },
+  {
+    "name": "PEG 100 Distearate",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "PEG 150 Distearate",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "PEG 200 Dilaurate",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "PEG 8 Castor Oil",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "PEG 8 Stearate",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "PEG-150 Pentaerythrityl Stearate",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "PEG-40 Hydrogenated Castor Oil",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Pentaclethara Macroloba",
+    "aliases": [
+      "Pracaxi"
+    ],
+    "rating": 5
+  },
+  {
+    "name": "Pentaerythrityl Tetraisostearate",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Perilla Oil",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "PG Caprylate/Caprate",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "PG Dipelargonate",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "PG Laurate",
+    "aliases": []
+  },
+  {
+    "name": "Phosphate",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Phytantriol",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Phytessence Wakame",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Pilu Oil",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Pistacia Gum",
+    "aliases": []
+  },
+  {
+    "name": "Pistacia Vera",
+    "aliases": [
+      "Pistachio"
+    ],
+    "rating": 4
+  },
+  {
+    "name": "Pisu Oil",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Plankton",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Polyglyceryl 3-Diisostearate",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Polyglyceryl 4-Isostearate",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Polyglyceryl Diisostearate",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Porphyra",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Porphyridium Cruentum",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Potassium Chloride",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "PPG 10 Cetyl Ether",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "PPG 12 PEG 65 Lanolin Oil",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "PPG 2 Myristyl Propionate",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "PPG 5 Ceteth 10 Phosphate",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "PPG-2 Myristyl Propionate",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Prickly Pear Seed Oil",
+    "aliases": [
+      "Opuntia Ficus-Indica Seed Oil"
+    ],
+    "rating": 2
+  },
+  {
+    "name": "Propylene Glycol Monostearate",
+    "aliases": [
+      "PG Monostearate"
+    ],
+    "rating": 4
+  },
+  {
+    "name": "Prunus Armeniaca",
+    "aliases": [
+      "Apricot"
+    ],
+    "rating": 4
+  },
+  {
+    "name": "Prunus Domestica",
+    "aliases": [
+      "Plum"
+    ],
+    "rating": 2
+  },
+  {
+    "name": "Pumpkin Seed Oil",
+    "aliases": [
+      "Cucurbita Pepo Seed Oil"
+    ],
+    "rating": 3
+  },
+  {
+    "name": "Ratanjot Oil",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Red Algae",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Rice Bran Oil",
+    "aliases": [
+      "Oryza Sativa Bran Oil",
+      "Oryza Sativa (Rice) Bran Oil"
+    ],
+    "rating": 5
+  },
+  {
+    "name": "Rockweed",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Rose Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Rosehip Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Rosehip Seed Oil",
+    "aliases": [
+      "Rosa Canina Seed Oil"
+    ],
+    "rating": 2
+  },
+  {
+    "name": "Rosemary Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Safflower Oil (Cold Pressed Only)",
+    "aliases": [],
+    "rating": 0
+  },
+  {
+    "name": "Safflower Oil (Cooking Variety)",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Sal Seed Butter",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Sal Seed Oil",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Sandalwood Seed Oil",
+    "aliases": [
+      "Santalum Album Oil"
+    ],
+    "rating": 2
+  },
+  {
+    "name": "Sargassum",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Sea Grass",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Sea Whip Extract",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Seaweed",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Sesamum Indicum",
+    "aliases": [
+      "Sesame"
+    ],
+    "rating": 4
+  },
+  {
+    "name": "Shark Liver Oil (Squalene, Not Squalane)",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Shea Butter",
+    "aliases": [
+      "Butyrospermum Parkii"
+    ],
+    "rating": 4
+  },
+  {
+    "name": "Shea Butter Ethyl Esters",
+    "aliases": []
+  },
+  {
+    "name": "Shea Nut Oil",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Sodium Laureth Sulfate",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Sodium Lauryl Sulfate",
+    "aliases": [
+      "SLS",
+      "Sodium Dodecyl Sulfate",
+      "Monododecyl Ester Sodium Salt Sulfuric Acid",
+      "Sulfuric Acid, Monododecyl Ester, Sodium Salt",
+      "Sodium Salt Sulfuric Acid"
+    ],
+    "rating": 5
+  },
+  {
+    "name": "Sodium Myreth Sulfate",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Solulan 16",
+    "aliases": [
+      "PEG 16 Lanolin"
+    ],
+    "rating": 4
+  },
+  {
+    "name": "Sorbitan Isostearate",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Sorbitan Laurate",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Sorbitan Oleate",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Sorbitan Olivate",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Soybean Oil",
+    "aliases": [
+      "Glycine Soja Oil"
+    ],
+    "rating": 5
+  },
+  {
+    "name": "Spirulina",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Squalene",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Steareth-10",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Steareth-2",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Steareth-20",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Stearic Acid",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Stearic Acid: TEA",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Stearyl Alcohol",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Stearyl Heptanoate",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Sucrose Distearate",
+    "aliases": []
+  },
+  {
+    "name": "Sulfated Castor Oil",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Sulfated Jojoba Oil",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Sunflower Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Sunflower Oil (GMO)",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Sweet Almond Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Sweet Almond Oil",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Tallow",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Tamanu Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Tamanu Oil",
+    "aliases": [
+      "Calophyllum Inophyllum Seed Oil"
+    ],
+    "rating": 4
+  },
+  {
+    "name": "Tocopherol (Sunflower Non-Com)",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Tomato Seed Oil",
+    "aliases": [
+      "Solanum Lycopersicum Seed Oil"
+    ],
+    "rating": 2
+  },
+  {
+    "name": "Tribehenin",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Tridecyl Neopentanoate",
+    "aliases": []
+  },
+  {
+    "name": "Ulva Lactuca",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Undaria",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Vitamin A Palmitate",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Vitamin E Butter",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Wakame",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Walnut Seed Oil",
+    "aliases": [
+      "Juglans Regia Seed Oil"
+    ],
+    "rating": 2
+  },
+  {
+    "name": "Water-Soluble Sulfur",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Wheat Germ Glyceride",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Wheat Germ Oil",
+    "aliases": [
+      "Triticum Vulgare Germ Oil",
+      "Triticum Vulgare"
+    ],
+    "rating": 5
+  },
+  {
+    "name": "Xylene",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Zea Mays",
+    "aliases": [
+      "Corn Starch"
+    ],
+    "rating": 4
+  }
+]

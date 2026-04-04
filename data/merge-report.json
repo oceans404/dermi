@@ -1,0 +1,141 @@
+{
+  "total_merged": 455,
+  "conflicts": [
+    {
+      "name": "Coconut Oil",
+      "ratings": {
+        "fulton_1989": 4,
+        "emme_diane": 5
+      },
+      "resolved_rating": 5,
+      "resolved_confidence": "low"
+    },
+    {
+      "name": "Butyl Stearate",
+      "ratings": {
+        "fulton_1989": 3,
+        "emme_diane": 4
+      },
+      "resolved_rating": 4,
+      "resolved_confidence": "low"
+    },
+    {
+      "name": "Cetyl Alcohol",
+      "ratings": {
+        "fulton_1989": 2,
+        "emme_diane": 5
+      },
+      "resolved_rating": 4,
+      "resolved_confidence": "low"
+    },
+    {
+      "name": "Evening Primrose Oil",
+      "ratings": {
+        "fulton_1989": 2,
+        "emme_diane": 3
+      },
+      "resolved_rating": 3,
+      "resolved_confidence": "low"
+    },
+    {
+      "name": "Vitamin A Palmitate",
+      "ratings": {
+        "fulton_1989": 2,
+        "emme_diane": 3
+      },
+      "resolved_rating": 3,
+      "resolved_confidence": "low"
+    },
+    {
+      "name": "Ascorbyl Palmitate",
+      "ratings": {
+        "fulton_1989": 2,
+        "emme_diane": 4
+      },
+      "resolved_rating": 3,
+      "resolved_confidence": "low"
+    },
+    {
+      "name": "Avocado Oil",
+      "ratings": {
+        "fulton_1989": 2,
+        "emme_diane": 4
+      },
+      "resolved_rating": 3,
+      "resolved_confidence": "low"
+    },
+    {
+      "name": "Olive Oil",
+      "ratings": {
+        "fulton_1989": 2,
+        "emme_diane": 5
+      },
+      "resolved_rating": 4,
+      "resolved_confidence": "low"
+    },
+    {
+      "name": "Peanut Oil",
+      "ratings": {
+        "fulton_1989": 2,
+        "emme_diane": 3
+      },
+      "resolved_rating": 3,
+      "resolved_confidence": "low"
+    },
+    {
+      "name": "Palmitic Acid",
+      "ratings": {
+        "fulton_1989": 2,
+        "emme_diane": 3
+      },
+      "resolved_rating": 3,
+      "resolved_confidence": "low"
+    },
+    {
+      "name": "Stearic Acid",
+      "ratings": {
+        "fulton_1989": 2,
+        "emme_diane": 3
+      },
+      "resolved_rating": 3,
+      "resolved_confidence": "low"
+    },
+    {
+      "name": "Lanolin Wax",
+      "ratings": {
+        "fulton_1989": 1,
+        "emme_diane": 3
+      },
+      "resolved_rating": 2,
+      "resolved_confidence": "low"
+    },
+    {
+      "name": "Squalene",
+      "ratings": {
+        "fulton_1989": 1,
+        "emme_diane": 3
+      },
+      "resolved_rating": 2,
+      "resolved_confidence": "low"
+    },
+    {
+      "name": "Lanolin",
+      "ratings": {
+        "emme_diane": 3,
+        "fulton_1989": 1
+      },
+      "resolved_rating": 2,
+      "resolved_confidence": "low"
+    },
+    {
+      "name": "Glycine Soja (Soybean) Oil",
+      "ratings": {
+        "fulton_1989": 3,
+        "emme_diane": 5
+      },
+      "resolved_rating": 4,
+      "resolved_confidence": "low"
+    }
+  ],
+  "generated_at": "2026-04-03T22:00:18.968Z"
+}

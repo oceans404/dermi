@@ -1,0 +1,4823 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-04-03",
+  "ingredients": [
+    {
+      "name": "A & D Additive",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "A13-00356",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Acai Berry Oil",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Acetol",
+      "aliases": [],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Acetulan",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Acetylated Lanolin",
+      "aliases": [
+        "Acetylated Wool Fat",
+        "Acetvlated Lanolin"
+      ],
+      "rating": 4,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Acetylated Lanolin Alcohol",
+      "aliases": [
+        "Acetylated Wool Wax"
+      ],
+      "rating": 4,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Active Soil",
+      "aliases": [],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Active Soil Complex",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Adamosis Stearate",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Agar",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Ahnfeltia Concinna",
+      "aliases": [
+        "Ahnfeltia Concinna Extract",
+        "Ahnfeltiopsis Concinna Extract"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Akyposal SDS",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Alaria Esculenta",
+      "aliases": [
+        "Alaria Esculenta Extract"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Algae Extract",
+      "aliases": [
+        "Algae",
+        "Macroalgae",
+        "Chlorophyceae",
+        "Phaeophyceae",
+        "Xanthophyta",
+        "Algea"
+      ],
+      "rating": 5,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Algin",
+      "aliases": [
+        "Alginate",
+        "Alginic Acid",
+        "Sodium Alginate"
+      ],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Algin (Algae)",
+      "aliases": [],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Almond Oil",
+      "aliases": [
+        "Prunus Amygdalus Dulcis Oil",
+        "Sweet Almond Oil",
+        "Prunus Dulcis Oil",
+        "Sweet Almond Butter"
+      ],
+      "rating": 2,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Aloe Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Amaranth Oil",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Amberlate P",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Amerchol",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Amyl Cinnamal",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Andiroba Seed Oil",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Anhydrous Lanolin",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Aphanothece Sacrum Polysaccharide",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Apricot Oil",
+      "aliases": [
+        "Apricot",
+        "Apricot Kernel Oil",
+        "Chullu (Wild Apricot) Seed Oil",
+        "Prunus Armeniaca Kernel Oil"
+      ],
+      "rating": 2,
+      "rating_confidence": "high",
+      "sources": [
+        "emme_diane",
+        "clearstem",
+        "fulton_1989"
+      ]
+    },
+    {
+      "name": "Apricot Seed Oil",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Aquarex ME",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Aquarex Methyl",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Arachidonic Acid in Sunflower Oil",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Argan Oil",
+      "aliases": [
+        "Argania Spinosa",
+        "Argania Spinosa (Argan) Kernel Oil",
+        "Argania Spinosa Oil"
+      ],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Arthrospira Platensis",
+      "aliases": [
+        "Arthrospira Plantensis"
+      ],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Ascophyllum",
+      "aliases": [
+        "Ascophyllum Nodosum",
+        "Ascophyllum Nodosum Extract"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "clearstem",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Ascorbyl Palmitate",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "low",
+      "sources": [
+        "fulton_1989",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Asparagopsis Armata Extract",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Astrocaryum Murumuru Seed Butter",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Avocado Oil",
+      "aliases": [
+        "Persea Gratissima Oil",
+        "Avocado",
+        "Avocado Butter",
+        "Persea Americana",
+        "Persea Gratissima (Avocado) Oil"
+      ],
+      "rating": 3,
+      "rating_confidence": "low",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Babassu Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Babassu Oil",
+      "aliases": [
+        "Orbignya Oleifera Kernel Oil"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Baobab Oil",
+      "aliases": [
+        "Adansonia Digitata L.",
+        "Baobab",
+        "Baoboab"
+      ],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Basic Red",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Beef Tallow",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Beeswax",
+      "aliases": [
+        "Cera Alba",
+        "Cera Flava",
+        "Cera Bianca",
+        "Cera Olea"
+      ],
+      "rating": 2,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Behenic Acid",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Benzoic Acid",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989"
+      ]
+    },
+    {
+      "name": "Beta Carotene",
+      "aliases": [],
+      "rating": 1,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989"
+      ]
+    },
+    {
+      "name": "Bismuth",
+      "aliases": [
+        "Bismuth Oxychloride"
+      ],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Black Cumin Seed Oil",
+      "aliases": [
+        "Nigella Sativa Seed Oil"
+      ],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Black Kelp",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Black Raspberry Seed Oil",
+      "aliases": [
+        "Rubus Occidentalis Seed Oil"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Bladderwrack",
+      "aliases": [
+        "Alga Bladderwrack",
+        "Bladderwack"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Blue Algae",
+      "aliases": [
+        "Blue Green Algae"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Borage Oil",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Brazil Nut Oil",
+      "aliases": [
+        "Bertholletia Excelsa Seed Oil"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Broccoli Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Brown Algae",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Bryopsis Africana",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Buriti Oil",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Butyl Stearate",
+      "aliases": [],
+      "rating": 4,
+      "rating_confidence": "low",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Butylene Glycol",
+      "aliases": [],
+      "rating": 1,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989"
+      ]
+    },
+    {
+      "name": "C13-14 Isoparaffin",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "C73-74 Isoparaffin",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Calendula",
+      "aliases": [
+        "Calendula Officinalis"
+      ],
+      "rating": 1,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989"
+      ]
+    },
+    {
+      "name": "Camelina Oil",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Camellia Oil",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Camphor",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989"
+      ]
+    },
+    {
+      "name": "Camphor Oil",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Candelilla Wax",
+      "aliases": [
+        "Euphorbia Cerifera Wax"
+      ],
+      "rating": 1,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989"
+      ]
+    },
+    {
+      "name": "Canola Oil",
+      "aliases": [
+        "Rapeseed Oil"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Capea Biruncinata Var. Denuda Sonder",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Capea Biruncinata Var. Elongata Sonder",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Capric Acid",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Capric Acid in Sunflower Oil",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Caprylic Acid",
+      "aliases": [],
+      "rating": 1,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Capsicum Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Carastay C",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Carnauba Wax",
+      "aliases": [
+        "Carnuba Wax",
+        "Copernicia Cerifera Wax"
+      ],
+      "rating": 1,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989"
+      ]
+    },
+    {
+      "name": "Carrageenan",
+      "aliases": [
+        "Carrageenan Moss",
+        "Carageenan Gum",
+        "Chondrus Crispus",
+        "Irish Moss",
+        "Vegetable Gelatin",
+        "Carageenan Moss",
+        "Chondrus Crispus Extract",
+        "Chondrus Crispus Powder",
+        "Chondrus Crispus (Aka Irish Moss or Carageenan Moss)"
+      ],
+      "rating": 5,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "clearstem",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Carrot Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Carrot Seed Oil",
+      "aliases": [
+        "Daucus Carota Seed Oil"
+      ],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Castor Oil",
+      "aliases": [
+        "Ricinus Communis Seed Oil"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Caulerpa Filiformis",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Caulerpa Lentillifera Extract",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Ceteareth 6 Olivate",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Ceteareth-20",
+      "aliases": [
+        "Ceteareth 20"
+      ],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "clearstem",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Ceteareth-6 Olivate",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Cetearyl Alcohol",
+      "aliases": [
+        "Cetearyl Alcohol + Ceteareth 20"
+      ],
+      "rating": 2,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Cetearyl Olivate",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Cetrimonium Bromide",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Cetyl Acetate",
+      "aliases": [],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Cetyl Alcohol",
+      "aliases": [
+        "Hexadecyl Alcohol"
+      ],
+      "rating": 4,
+      "rating_confidence": "low",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Chaetomorpha Linum (Aerea) Cladophora Radiosa",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Chamomile Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Cherry Kernel Oil",
+      "aliases": [
+        "Prunus Avium Seed Oil"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Cherry Seed Oil",
+      "aliases": [
+        "Cheru Seed Oil"
+      ],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "clearstem",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Chia Seed Oil",
+      "aliases": [
+        "Salvia Hispanica Seed Oil"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Chlamydomonas Reinhardtii Extract",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Chlorella",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Chlorella Botanicals",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Chlorella Vulgaris Extract",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Cinnamon Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Cladophora Cf. Subsimplex",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Cladosiphon Okamuranus Extract",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Coal Tar",
+      "aliases": [
+        "Liquor Picis Carbonis",
+        "LPC",
+        "Pix Carbonis",
+        "Pyrene Coal Tar Pitch"
+      ],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Cocoa Butter",
+      "aliases": [
+        "Theobroma Cacao Seed Butter",
+        "Theobroma Butter",
+        "Theobroma Oil",
+        "Cacao Seed Butter",
+        "Theobroma Cacao (Cocoa) Seed Butter",
+        "Theobroma Cocoa Seed Butter"
+      ],
+      "rating": 4,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Coconut Oil",
+      "aliases": [
+        "Cocos Nucifera Oil",
+        "Cocos Nucifera Seed Butter",
+        "Coconut Extract",
+        "Coconut Nucifera Extract",
+        "Cocos Nucifera (Coconut) Oil",
+        "Coconut",
+        "Coconut Alkanes",
+        "Coconut Butter",
+        "Coconut Fruit",
+        "Cocos Nucifera",
+        "Cocos Nucifera (Coconut) Fruit Extract"
+      ],
+      "rating": 5,
+      "rating_confidence": "low",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Coconut Oil, Fractionated",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Codium Fragile Extract",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Coenochloris Signiensis Extract",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Coffee Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Colloidal Sulfur",
+      "aliases": [
+        "Water Soluble Sulfur"
+      ],
+      "rating": 3,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Corallina Officinalis",
+      "aliases": [
+        "Corallina Officinalis Extract"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Corn Oil",
+      "aliases": [
+        "Zea Mays Oil",
+        "Zea Mays",
+        "Corn",
+        "Corn Starch"
+      ],
+      "rating": 3,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Cotton Aws",
+      "aliases": [
+        "Cotton Awws",
+        "Cotton Awws Oil"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "clearstem",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Cottonseed Oil",
+      "aliases": [
+        "Cotton Seed Oil",
+        "Gossypium Herbaceum Seed Oil"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "clearstem",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Cranberry Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Cranberry Oil",
+      "aliases": [
+        "Vaccinium Macrocarpon Seed Oil"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Cranberry Seed Oil",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Creosote",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Crisco",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Crithmum Maritimum",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Cupuacu Butter",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Cypress Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Cystoseira Tamariscifolia Extract",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "D & C Red",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "D & C Red # 30",
+      "aliases": [
+        "D&C Red #30"
+      ],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "D & C Red # 36",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "D & C Red 27",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "D & C Red 33",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "D & C Red 40",
+      "aliases": [
+        "D&C Red #40"
+      ],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "D-Limonene",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "D&C Red #17",
+      "aliases": [
+        "D & C Red # 17",
+        "D & C Red 17"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "D&C Red #19",
+      "aliases": [
+        "D & C Red # 19",
+        "D & C Red 19"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "D&C Red #21",
+      "aliases": [
+        "D & C Red # 21",
+        "D & C Red 21"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "D&C Red #3",
+      "aliases": [
+        "D & C Red # 3",
+        "D & C Red 3"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "D&C Red #4",
+      "aliases": [
+        "D & C Red # 4",
+        "D & C Red 4"
+      ],
+      "rating": 1,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "D&C Red #6",
+      "aliases": [
+        "D & C Red # 6",
+        "D & C Red 6"
+      ],
+      "rating": 1,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "D&C Red #7",
+      "aliases": [
+        "D & C Red # 7",
+        "D & C Red 7"
+      ],
+      "rating": 1,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "D&C Red #9",
+      "aliases": [
+        "D & C Red # 9",
+        "D & C Red 9"
+      ],
+      "rating": 1,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "D&C Red No. 1 (Red 1)",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "D&C Red No. 17 (Red 17)",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "D&C Red No. 19 (Red 19)",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "D&C Red No. 2 (Red 2)",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "D&C Red No. 21 (Red 21)",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "D&C Red No. 27 (Red 27)",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "D&C Red No. 3 (Red 3)",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "D&C Red No. 30 (Red 30)",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "D&C Red No. 35 (Red 35) in Pentaerythrital Tetra Capra",
+      "aliases": [
+        "Caprylate"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "D&C Red No. 36 (Red 36)",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "D&C Red No. 36 (Red 36) in Mineral Oil",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "D&C Red No. 4 (Red 4)",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "D&C Red No. 40 (Red 40)",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Date Seed Oil",
+      "aliases": [
+        "Phoenix Dactylifera Seed Extract"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Decyl Oleate",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Dhupa Seed Oil",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Di",
+      "aliases": [
+        "2 Ethylhexyl"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Di (2 Ethylhexyl) Succinate",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Dictyopteris Membranacea",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Dictyopteris Polypodioides",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Diisostearyl Malate",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Dilsea Carnosa",
+      "aliases": [
+        "Dilsea Carnosa Extract"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Dimethicone",
+      "aliases": [
+        "Polydimethylsiloxane"
+      ],
+      "rating": 1,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989"
+      ]
+    },
+    {
+      "name": "Dioctyl Malate",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Dioctyl Succinate",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Disodium Monooleamido PEG 2-Sulfosuccinate",
+      "aliases": [
+        "Disodium Monooleamido",
+        "Disodium Monooleamido PEG 2- Sulfosuccinate"
+      ],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Dulse",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Dunaliella Salina Extract",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Durvillaea Antarctica Extract",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Ecklonia",
+      "aliases": [
+        "Ecklonia Radiata"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Eicosanoic Acid",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Elderberry Seed Oil",
+      "aliases": [
+        "Sambucus Nigra Oil"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Emu Oil",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Emulsifying Wax NF",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Enteromorpha Compressa",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Ethoxylated Lanolin",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Ethylhexyl Pelargonate",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Evening Primrose Oil",
+      "aliases": [
+        "Oenothera Biennis Oil",
+        "Eevening Primrose Oil"
+      ],
+      "rating": 3,
+      "rating_confidence": "low",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Flaxseed Oil",
+      "aliases": [
+        "Linseed Oil",
+        "Linseed",
+        "Flax Oil",
+        "Linum Usitatissimum (Linseed) Seed Oil"
+      ],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Fucus Vesiculosus",
+      "aliases": [
+        "Rockweed"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Gelidium Cartilagineum",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Ginger Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Glyceryl Oleate",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Glyceryl Stearate NSE",
+      "aliases": [],
+      "rating": 1,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989"
+      ]
+    },
+    {
+      "name": "Glyceryl Stearate SE",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Glyceryl-3 Diisostearate",
+      "aliases": [
+        "Glyceryl 3-Diisostearate"
+      ],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Glyceryl-3-Diisostearate",
+      "aliases": [],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Glycine Soja (Soybean) Oil",
+      "aliases": [
+        "Soja",
+        "Soy",
+        "Soy Oil",
+        "Soy Protein",
+        "Soybean",
+        "Soybean Oil",
+        "Sova",
+        "Glycine Soja Oil",
+        "Glycine Max"
+      ],
+      "rating": 4,
+      "rating_confidence": "low",
+      "sources": [
+        "clearstem",
+        "fulton_1989",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Grapeseed Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Grapeseed Oil",
+      "aliases": [
+        "Vitis Vinifera Seed Oil"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Green Algae",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Green Tea Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Guava Seed Oil",
+      "aliases": [
+        "Psidium Guajava Seed Oil"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Haslea Ostrearia",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Hazelnut Seed Oil",
+      "aliases": [
+        "Corylus Avellana Seed Oil"
+      ],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Hemp Seed Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Hexyl Laurate",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Himanthalia Elongata",
+      "aliases": [
+        "Himanthalia Elongate"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "clearstem",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Hydrogenated Castor Oil",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Hydrogenated Vegetable Oil",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Hydrolyzed Lola Implexa",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Hydrolyzed Rhodophycea",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Hydrolyzed Wheat Protein",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Hypnea Musciformis",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Illipe Butter",
+      "aliases": [
+        "Shorea Stenoptera"
+      ],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Isoceteth-20",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Isocetyl Alcohol",
+      "aliases": [],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Isocetyl Stearate",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Isodecyl Oleate",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Isononyl Isononanoate",
+      "aliases": [
+        "Isononyl Isononoanoate"
+      ],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Isopropyl Isostearate",
+      "aliases": [
+        "Isopropyl Isosterate"
+      ],
+      "rating": 5,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Isopropyl Lanolate",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Isopropyl Linoleate",
+      "aliases": [
+        "Isopropyl Linolate"
+      ],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "clearstem",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Isopropyl Myristate",
+      "aliases": [
+        "IPM",
+        "Myristate"
+      ],
+      "rating": 5,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Isopropyl Neopentanoate",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Isopropyl Palmitate",
+      "aliases": [],
+      "rating": 4,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Isostearate",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Isostearic Acid",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Isostearyl Isostearate",
+      "aliases": [
+        "Isostearyl"
+      ],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Isostearyl Neopentanoate",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Jania Rubens Extract",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Jasmine Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Jojoba Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Jojoba Oil",
+      "aliases": [
+        "Simmondsia Chinensis Seed Oil",
+        "Jojoba Wax",
+        "Simmondsia Chinensis Seed Wax",
+        "Simmondsia Chinensis (Jojoba) Seed Oil"
+      ],
+      "rating": 2,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Kapok Oil",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Kappaphycus",
+      "aliases": [
+        "Kappaphycus Alvarezii Extract"
+      ],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Karanja Oil",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Kasum Oil",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Kelp",
+      "aliases": [
+        "Norwegian Kelp",
+        "Macrocystis Pyrifera (Kelp) Extract",
+        "Macrocystis Pyrifera Extract"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Knotted Kelp",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Kokum Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Kousou Ekisu",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Kukui Nut Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Kukui Nut Oil",
+      "aliases": [
+        "Aleurites Moluccana Seed Oil",
+        "Kukui Nut",
+        "Kukui Oil"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Laminaria",
+      "aliases": [
+        "Laminaria Digitata",
+        "Laminaria Digitata Extract",
+        "Laminaria Longicruris",
+        "Laminaria Longicruris Extract",
+        "Laminaria Saccharina",
+        "Laminaria Saccharina Extract",
+        "Laminaria Saccharina Extract (Laminaria Saccharine)",
+        "Laminaria Saccharine"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Laminaria Ochroleuca Extract",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Laneth-10",
+      "aliases": [
+        "Laneth 10"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Lanolic Acid",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Lanolin",
+      "aliases": [
+        "Lanolin Oil",
+        "Wool Fat"
+      ],
+      "rating": 2,
+      "rating_confidence": "low",
+      "sources": [
+        "emme_diane",
+        "clearstem",
+        "fulton_1989"
+      ]
+    },
+    {
+      "name": "Lanolin Acid",
+      "aliases": [],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Lanolin Alcohol",
+      "aliases": [
+        "Wool Alcohol",
+        "Sheep Alcohol"
+      ],
+      "rating": 2,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Lanolin Wax",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "low",
+      "sources": [
+        "fulton_1989",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Laureth-12",
+      "aliases": [
+        "Laureth 12"
+      ],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Laureth-23",
+      "aliases": [
+        "Laureth 23"
+      ],
+      "rating": 3,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Laureth-4",
+      "aliases": [
+        "Laureth 4"
+      ],
+      "rating": 5,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Laureth-7",
+      "aliases": [
+        "Laureth 7"
+      ],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Lauric Acid",
+      "aliases": [
+        "Dodecanoic Acid"
+      ],
+      "rating": 4,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Lauric Acid in Sunflower Oil",
+      "aliases": [],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Lauroyl Lysine",
+      "aliases": [],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Lauryl Alcohol",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Lauryl Olivate",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Lauryl Sulfate",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Lavender Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Lemon Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Lemongrass Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Lime Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Linoleate",
+      "aliases": [
+        "Linolate"
+      ],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Lithium Stearate",
+      "aliases": [
+        "Lithiumm Stearate"
+      ],
+      "rating": 1,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989"
+      ]
+    },
+    {
+      "name": "Lithothamnium Calcareum",
+      "aliases": [
+        "Lithothamnium Calcareum Powder"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Lola Implexa",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Macadamia Nut Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Macadamia Nut Oil",
+      "aliases": [
+        "Macadamia Ternifolia/Integrifolia Seed Oil"
+      ],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Macrocystis Pyrifera",
+      "aliases": [
+        "Sea Kelp"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Magnesium Myristate",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Magnesium Stearate",
+      "aliases": [],
+      "rating": 1,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989"
+      ]
+    },
+    {
+      "name": "Mahua Seed Oil",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Mandarin Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Mangifera Indica Seed Butter",
+      "aliases": [
+        "Mango Butter"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Mango Seed Oil",
+      "aliases": [
+        "Mangifera Indica Seed Oil"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Marigold Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Marine Algae",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Marula Oil",
+      "aliases": [
+        "Sclerocarya Birrea Seed Oil",
+        "Marula",
+        "Sclerocarya Birrea"
+      ],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Mastocarpus Stellatus",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Meadowfoam Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Microcystis Aeruginosa",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Mineral Oil",
+      "aliases": [
+        "Petroleum",
+        "Paraffin",
+        "Parrafin"
+      ],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Mink Oil",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Monostearate",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Moringa Oil",
+      "aliases": [
+        "Moringa",
+        "Moringa Oleifera Seed Oil"
+      ],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Moss",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Mowrah Butter",
+      "aliases": [],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Myreth-3 Myristate",
+      "aliases": [
+        "Myreth 3 Myristate"
+      ],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "clearstem",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Myristic Acid",
+      "aliases": [
+        "Myristyl"
+      ],
+      "rating": 3,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Myristyl Alcohol",
+      "aliases": [
+        "Myristyl"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Myristyl Lactate",
+      "aliases": [],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Myristyl Myristate",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Myristyl Propionate",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Myrtrimonium Bromide",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Nahor Seed Oil",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Nasturtium Officinale (Watercress) Flower/Leaf Extract",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Neem Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Neem Oil",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Neopentanoate",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Neroli Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Nori",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Nymphaea Alba Flower Extract",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Octodidecyl Stearoyl Stearate",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Octyl Palmitate",
+      "aliases": [
+        "Ethylhexyl Palmitate",
+        "Ethylhexyl Palmitat"
+      ],
+      "rating": 4,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Octyl Stearate",
+      "aliases": [
+        "Ethylhexyl Stearate",
+        "2-Ethylhexyl Stearate"
+      ],
+      "rating": 5,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Oleic Acid",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Oleth-10",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Oleth-20",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Oleth-3",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Oleth-3 Phosphate",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Oleth-5",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Oleyl Alcohol",
+      "aliases": [],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Olive Oil",
+      "aliases": [
+        "Olea Europaea Fruit Oil",
+        "Olea Europaea (Olive) Fruit Oil",
+        "Olive",
+        "Olive Butter",
+        "Olive Oil PEG-7 Esters"
+      ],
+      "rating": 4,
+      "rating_confidence": "low",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Olive Oil PEG 7 Esters",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Orange Peel Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Padina Pavonica",
+      "aliases": [
+        "Padina Pavonica Extract"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Palash Oil",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Palm Oil",
+      "aliases": [
+        "Palm Oil Butter",
+        "Palm Kernel Oil",
+        "Red Palm Oil",
+        "Elaeis Guineensis Kernel Oil"
+      ],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "clearstem",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Palm Oil (Elaeis Guineensis Oil)",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Palm Oil, Red",
+      "aliases": [],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Palmaria Palmata",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Palmaria Palmata Extract",
+      "aliases": [
+        "Palmaria Oalmarta Extract (Dulse)",
+        "Palmaria Palmate"
+      ],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Palmitic Acid",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "low",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Papaya Seed Oil",
+      "aliases": [
+        "Carica Papaya Seed Oil"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Passionfruit (Maracuja) Seed Oil",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Peach Kernel Oil",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Peach Kernel Oils",
+      "aliases": [
+        "Prunus Persica Kernel Oil"
+      ],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Peanut Oil",
+      "aliases": [
+        "Arachis Hypogaea Oil",
+        "Groundnut Oil"
+      ],
+      "rating": 3,
+      "rating_confidence": "low",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Pecan Oil",
+      "aliases": [
+        "Carya Illinoensis Seed Oil"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "PEG 2 Sulfosuccinate",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "PEG 8 Castor Oil",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "PEG-100 Distearate",
+      "aliases": [
+        "PEG 100 Distearate"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "clearstem",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "PEG-100 Stearate",
+      "aliases": [
+        "PEG 100 Stearate"
+      ],
+      "rating": 1,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989"
+      ]
+    },
+    {
+      "name": "PEG-150 Distearate",
+      "aliases": [
+        "PEG 150 Distearate"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "clearstem",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "PEG-150 Pentaerythrityl Stearate",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "PEG-16 Lanolin",
+      "aliases": [
+        "PEG 16 Lanolin",
+        "Solulan 16"
+      ],
+      "rating": 4,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "clearstem",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "PEG-200 Dilaurate",
+      "aliases": [
+        "PEG 200 Dilaurate"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "clearstem",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "PEG-40 Hydrogenated Castor Oil",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "PEG-65",
+      "aliases": [
+        "PEG 65"
+      ],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "PEG-75 Lanolin",
+      "aliases": [
+        "PEG 75 Lanolin"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989"
+      ]
+    },
+    {
+      "name": "PEG-8 Stearate",
+      "aliases": [
+        "PEG 8 Stearate"
+      ],
+      "rating": 3,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "clearstem",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Pelvetia Canaliculata Extract",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Pentaclethara Macroloba",
+      "aliases": [
+        "Pracaxi"
+      ],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Pentaerythritol",
+      "aliases": [
+        "Pentaerythrital"
+      ],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Pentaerythrityl Tetraisostearate",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Pequot Oil",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Perilla Oil",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "PG Caprylate/Caprate",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "PG Dipelargonate",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "PG Laurate",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Phaeodactylum Tricornutum Extract",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Phosphate",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Phytantriol",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Phytessence Wakame",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Pilu Oil",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Pine Nut Oil",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Pistacia Gum",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Pistacia Vera",
+      "aliases": [
+        "Pistachio"
+      ],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Pisu Oil",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Plankton",
+      "aliases": [
+        "Plankton Extract"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Polyethylene Glycol",
+      "aliases": [
+        "PEG 400",
+        "Polyethylene Glycol (PEG 400)"
+      ],
+      "rating": 1,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989"
+      ]
+    },
+    {
+      "name": "Polyglyceryl 3-Diisostearate",
+      "aliases": [],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Polyglyceryl 4-Isostearate",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Polyglyceryl Diisostearate",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Polyglyceryl-2 Isostearate",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Polyglyceryl-3 Diisostearate",
+      "aliases": [
+        "Polyglyceryl-3 Diiosostearate",
+        "Polyglyceryl-Diisostearate"
+      ],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Polyglyceryl-4 Isostearate",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Polyquaternium-4",
+      "aliases": [
+        "Polyquanterium-4"
+      ],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Polysiphonia Elongata Extract",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Porphyra",
+      "aliases": [
+        "Porphyra Umbilicalis"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Porphyridium",
+      "aliases": [
+        "Porphyridium Cruentum",
+        "Porphyridium Cruentum Extract"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "clearstem",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Potassium Cocoate",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Potassium Salt",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "PPG 12 PEG 65 Lanolin Oil",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "PPG-10 Cetyl Ether",
+      "aliases": [
+        "PPG 10 Cetyl Ether"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "clearstem",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "PPG-12",
+      "aliases": [
+        "PPG 12"
+      ],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "PPG-2 Myristyl Propionate",
+      "aliases": [
+        "PPG-2 Myristyl",
+        "PPG 2 Myristyl Ether Propionate",
+        "PPG 2 Myristyl Propionate"
+      ],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "PPG-5 Ceteth-10 Phosphate",
+      "aliases": [
+        "PPG 5 Ceteth 10 Phosphate",
+        "PPG Ceteth 10 Phosphate"
+      ],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "clearstem",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Pracaxi Oil",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Prickly Pear Seed Oil",
+      "aliases": [
+        "Opuntia Ficus-Indica Seed Oil"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Propylene Glycol Monostearate",
+      "aliases": [
+        "PG Monostearate"
+      ],
+      "rating": 4,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Prunus Armeniaca",
+      "aliases": [
+        "Apricot"
+      ],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Prunus Domestica",
+      "aliases": [
+        "Plum"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Pumpkin Seed Oil",
+      "aliases": [
+        "Cucurbita Pepo Seed Oil"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Ratanjot Oil",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Ratanjyot Oil",
+      "aliases": [
+        "Ratanjyat Oil"
+      ],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Red Algae",
+      "aliases": [
+        "Red Algea",
+        "Rhodophyta",
+        "Rhodophyceae Extract",
+        "Hydrolyzed Rhodophycea Extract"
+      ],
+      "rating": 5,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Rice Bran Oil",
+      "aliases": [
+        "Oryza Sativa Bran Oil",
+        "Oryza Sativa (Rice) Bran Oil",
+        "Ricebran Oil"
+      ],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Rose Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Rosehip Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Rosehip Seed Oil",
+      "aliases": [
+        "Rosa Canina Seed Oil"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Rosemary Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Safflower Oil",
+      "aliases": [
+        "Carthamus Tinctorius Oil"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989"
+      ]
+    },
+    {
+      "name": "Safflower Oil (Cold Pressed Only)",
+      "aliases": [],
+      "rating": 0,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Safflower Oil (Cooking Variety)",
+      "aliases": [],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Sal Seed Butter",
+      "aliases": [],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Sal Seed Oil",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Sandalwood Seed Oil",
+      "aliases": [
+        "Santalum Album Oil"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Sapote Oil",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Sargassum",
+      "aliases": [
+        "Sargassum Filipendula Extract",
+        "Sargassum Fillpendula Extract",
+        "Sargassum Fusiforme Extract"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Sea Fern",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Sea Grass",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Sea Mayweed",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Sea Whip",
+      "aliases": [
+        "Sea Whip Extract"
+      ],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "clearstem",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Seaweed",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Sesame Oil",
+      "aliases": [
+        "Sesame",
+        "Sesame Seed",
+        "Sesamum Indicum"
+      ],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "clearstem",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Shark Liver Oil (Squalene, Not Squalane)",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Shea Butter",
+      "aliases": [
+        "Butyrospermum Parkii",
+        "Shea",
+        "Shea Nut Oil",
+        "Butyrospermum Parkii Butter",
+        "Butyrospermum",
+        "Butyrospermum Parkii (Shea) Butter",
+        "Butyrospermum Parkii (Shea) Butter Extract",
+        "Karite",
+        "Parkii",
+        "Vitellaria Paradoxa"
+      ],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Shea Butter Ethyl Esters",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Simethicone",
+      "aliases": [],
+      "rating": 1,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989"
+      ]
+    },
+    {
+      "name": "Sodium Carbomer",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Sodium Chloride",
+      "aliases": [
+        "Salt",
+        "Potassium Chloride"
+      ],
+      "rating": 5,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Sodium Laureth Sulfate",
+      "aliases": [
+        "SLES",
+        "Sodium Laurel Sulfate"
+      ],
+      "rating": 3,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Sodium Lauryl Sulfate",
+      "aliases": [
+        "SLS",
+        "Sodium Dodecyl Sulfate",
+        "Monododecyl Ester Sodium Salt Sulfuric Acid",
+        "Sulfuric Acid, Monododecyl Ester, Sodium Salt",
+        "Sodium Salt Sulfuric Acid"
+      ],
+      "rating": 5,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Sodium Myreth Sulfate",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Soil Minerals",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Sorbitan Isostearate",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Sorbitan Laurate",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Sorbitan Oleate",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Sorbitan Olivate",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Sphacelaria",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Spiraea Ulmaria (Meadowsweet) Flower Extract",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Spirulina",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Squalene",
+      "aliases": [
+        "Shark Squalene",
+        "Shark Liver Oil"
+      ],
+      "rating": 2,
+      "rating_confidence": "low",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Starch",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Stealkonium Chloride",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Steareth-10",
+      "aliases": [
+        "Steareth 10"
+      ],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Steareth-2",
+      "aliases": [
+        "Steareth 2"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Steareth-20",
+      "aliases": [
+        "Steareth 20"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Stearic Acid",
+      "aliases": [
+        "Stearic Acid TEA",
+        "TEA Stearate",
+        "Stearic Acid: TEA",
+        "TEA-Stearate",
+        "Triethanolamine"
+      ],
+      "rating": 3,
+      "rating_confidence": "low",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Stearyl Alcohol",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Stearyl Heptanoate",
+      "aliases": [
+        "Syearyl Heptanoate"
+      ],
+      "rating": 4,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Sucrose Distearate",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Sulfated Castor Oil",
+      "aliases": [
+        "Sulphated Castor Oil",
+        "Turkey Red Oil"
+      ],
+      "rating": 3,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Sulfated Jojoba Oil",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Sulfosuccinate",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Sunflower Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Sunflower Oil (GMO)",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Talc",
+      "aliases": [
+        "Talcum",
+        "Hydrous Magnesium Silicate"
+      ],
+      "rating": 1,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Tallow",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Tamanu Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Tamanu Oil",
+      "aliases": [
+        "Calophyllum Inophyllum Seed Oil"
+      ],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Tetradecyl Myristate",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Tocopherol",
+      "aliases": [
+        "Vitamin E",
+        "Tocopherol (Vitamin E)"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989"
+      ]
+    },
+    {
+      "name": "Tocopherol (Sunflower Non-Com)",
+      "aliases": [],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Tomato Seed Oil",
+      "aliases": [
+        "Solanum Lycopersicum Seed Oil"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Tribehenin",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Tridecyl Neopentanoate",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Tucuma Butter",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Ulva Fasciata",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Ulva Lactuca",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Ulva Rhacodes",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Undaria Pinnatifida",
+      "aliases": [
+        "Undaria",
+        "Wakame"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "clearstem",
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Vitamin A Palmitate",
+      "aliases": [
+        "Retinyl Palmitate"
+      ],
+      "rating": 3,
+      "rating_confidence": "low",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Vitamin E Butter",
+      "aliases": [],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Vitamin E Oil",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": [
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Walnut Seed Oil",
+      "aliases": [
+        "Juglans Regia Seed Oil"
+      ],
+      "rating": 2,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Water-Soluble Sulfur",
+      "aliases": [],
+      "rating": 3,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane"
+      ]
+    },
+    {
+      "name": "Wheat Germ Oil",
+      "aliases": [
+        "Triticum Vulgare",
+        "Triticum Aestivum",
+        "Wheat Germ Glyceride",
+        "Triticum Vulgare Germ Oil",
+        "Wheat"
+      ],
+      "rating": 5,
+      "rating_confidence": "high",
+      "sources": [
+        "fulton_1989",
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Xylene",
+      "aliases": [],
+      "rating": 4,
+      "rating_confidence": "medium",
+      "sources": [
+        "emme_diane",
+        "clearstem"
+      ]
+    },
+    {
+      "name": "Zinc Oxide",
+      "aliases": [],
+      "rating": 1,
+      "rating_confidence": "medium",
+      "sources": [
+        "fulton_1989"
+      ]
+    }
+  ]
+}

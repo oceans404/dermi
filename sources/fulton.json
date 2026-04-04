@@ -1,0 +1,427 @@
+[
+  {
+    "name": "Octyl Stearate",
+    "aliases": ["Ethylhexyl Stearate", "2-Ethylhexyl Stearate"],
+    "rating": 5
+  },
+  {
+    "name": "Algae Extract",
+    "aliases": ["Algae", "Macroalgae", "Chlorophyceae", "Phaeophyceae", "Xanthophyta"],
+    "rating": 5
+  },
+  {
+    "name": "Laureth-4",
+    "aliases": ["Laureth 4"],
+    "rating": 5
+  },
+  {
+    "name": "Isopropyl Myristate",
+    "aliases": ["IPM", "Myristate"],
+    "rating": 5
+  },
+  {
+    "name": "Sodium Chloride",
+    "aliases": ["Salt", "Potassium Chloride"],
+    "rating": 5
+  },
+  {
+    "name": "Carrageenan",
+    "aliases": ["Carrageenan Moss", "Carageenan Gum", "Chondrus Crispus", "Irish Moss", "Vegetable Gelatin"],
+    "rating": 5
+  },
+  {
+    "name": "Oleth-3",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Red Algae",
+    "aliases": ["Red Algea", "Rhodophyta", "Rhodophyceae Extract", "Hydrolyzed Rhodophycea Extract"],
+    "rating": 5
+  },
+  {
+    "name": "Sodium Lauryl Sulfate",
+    "aliases": ["SLS"],
+    "rating": 5
+  },
+  {
+    "name": "Wheat Germ Oil",
+    "aliases": ["Triticum Vulgare", "Triticum Aestivum", "Wheat Germ Glyceride"],
+    "rating": 5
+  },
+  {
+    "name": "Isocetyl Stearate",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Isopropyl Isostearate",
+    "aliases": [],
+    "rating": 5
+  },
+  {
+    "name": "Algin",
+    "aliases": ["Alginate", "Alginic Acid", "Sodium Alginate"],
+    "rating": 4
+  },
+  {
+    "name": "PEG-16 Lanolin",
+    "aliases": ["PEG 16 Lanolin", "Solulan 16"],
+    "rating": 4
+  },
+  {
+    "name": "Acetylated Lanolin Alcohol",
+    "aliases": ["Acetylated Wool Wax"],
+    "rating": 4
+  },
+  {
+    "name": "Coconut Oil",
+    "aliases": ["Cocos Nucifera Oil", "Cocos Nucifera Seed Butter", "Coconut Extract", "Coconut Nucifera Extract"],
+    "rating": 4
+  },
+  {
+    "name": "Lauric Acid",
+    "aliases": ["Dodecanoic Acid"],
+    "rating": 4
+  },
+  {
+    "name": "Octyl Palmitate",
+    "aliases": ["Ethylhexyl Palmitate"],
+    "rating": 4
+  },
+  {
+    "name": "Acetylated Lanolin",
+    "aliases": ["Acetylated Wool Fat"],
+    "rating": 4
+  },
+  {
+    "name": "Cocoa Butter",
+    "aliases": ["Theobroma Cacao Seed Butter", "Theobroma Butter", "Theobroma Oil", "Cacao Seed Butter"],
+    "rating": 4
+  },
+  {
+    "name": "Coconut Butter",
+    "aliases": ["Coconut Alkanes"],
+    "rating": 4
+  },
+  {
+    "name": "Isopropyl Palmitate",
+    "aliases": [],
+    "rating": 4
+  },
+  {
+    "name": "Propylene Glycol Monostearate",
+    "aliases": ["PG Monostearate"],
+    "rating": 4
+  },
+  {
+    "name": "Stearyl Heptanoate",
+    "aliases": ["Syearyl Heptanoate"],
+    "rating": 4
+  },
+  {
+    "name": "Colloidal Sulfur",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Dioctyl Succinate",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Glyceryl Stearate SE",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "PEG-75 Lanolin",
+    "aliases": ["PEG 75 Lanolin"],
+    "rating": 3
+  },
+  {
+    "name": "Sodium Laureth Sulfate",
+    "aliases": ["SLES"],
+    "rating": 3
+  },
+  {
+    "name": "Sulfated Castor Oil",
+    "aliases": ["Sulphated Castor Oil", "Turkey Red Oil"],
+    "rating": 3
+  },
+  {
+    "name": "Sulfated Jojoba Oil",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "PEG-8 Stearate",
+    "aliases": ["PEG 8 Stearate"],
+    "rating": 3
+  },
+  {
+    "name": "Butyl Stearate",
+    "aliases": [],
+    "rating": 3
+  },
+  {
+    "name": "Corn Oil",
+    "aliases": ["Zea Mays Oil", "Zea Mays"],
+    "rating": 3
+  },
+  {
+    "name": "D&C Red #17",
+    "aliases": ["D & C Red # 17"],
+    "rating": 3
+  },
+  {
+    "name": "D&C Red #21",
+    "aliases": ["D & C Red # 21"],
+    "rating": 3
+  },
+  {
+    "name": "D&C Red #3",
+    "aliases": ["D & C Red # 3"],
+    "rating": 3
+  },
+  {
+    "name": "Laureth-23",
+    "aliases": ["Laureth 23"],
+    "rating": 3
+  },
+  {
+    "name": "Myristic Acid",
+    "aliases": ["Myristyl"],
+    "rating": 3
+  },
+  {
+    "name": "Soybean Oil",
+    "aliases": ["Glycine Soja Oil", "Glycine Max", "Soja", "Soy", "Soybean"],
+    "rating": 3
+  },
+  {
+    "name": "Benzoic Acid",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Camphor",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Capric Acid",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Cetearyl Alcohol",
+    "aliases": ["Cetearyl Alcohol + Ceteareth 20"],
+    "rating": 2
+  },
+  {
+    "name": "Cetyl Alcohol",
+    "aliases": ["Hexadecyl Alcohol"],
+    "rating": 2
+  },
+  {
+    "name": "Evening Primrose Oil",
+    "aliases": ["Oenothera Biennis Oil"],
+    "rating": 2
+  },
+  {
+    "name": "Stearyl Alcohol",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Tocopherol",
+    "aliases": ["Vitamin E", "Tocopherol (Vitamin E)"],
+    "rating": 2
+  },
+  {
+    "name": "Oleth-10",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Vitamin A Palmitate",
+    "aliases": ["Retinyl Palmitate"],
+    "rating": 2
+  },
+  {
+    "name": "Almond Oil",
+    "aliases": ["Prunus Amygdalus Dulcis Oil", "Sweet Almond Oil"],
+    "rating": 2
+  },
+  {
+    "name": "Apricot Kernel Oil",
+    "aliases": ["Prunus Armeniaca Kernel Oil"],
+    "rating": 2
+  },
+  {
+    "name": "Ascorbyl Palmitate",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Avocado Oil",
+    "aliases": ["Persea Gratissima Oil"],
+    "rating": 2
+  },
+  {
+    "name": "Beeswax",
+    "aliases": ["Cera Alba", "Cera Flava", "Cera Bianca"],
+    "rating": 2
+  },
+  {
+    "name": "D&C Red #19",
+    "aliases": ["D & C Red # 19"],
+    "rating": 2
+  },
+  {
+    "name": "Jojoba Oil",
+    "aliases": ["Simmondsia Chinensis Seed Oil", "Jojoba Wax", "Simmondsia Chinensis Seed Wax"],
+    "rating": 2
+  },
+  {
+    "name": "Lanolin Alcohol",
+    "aliases": ["Wool Alcohol", "Sheep Alcohol"],
+    "rating": 2
+  },
+  {
+    "name": "Olive Oil",
+    "aliases": ["Olea Europaea Fruit Oil"],
+    "rating": 2
+  },
+  {
+    "name": "Peanut Oil",
+    "aliases": ["Arachis Hypogaea Oil"],
+    "rating": 2
+  },
+  {
+    "name": "Palmitic Acid",
+    "aliases": [],
+    "rating": 2
+  },
+  {
+    "name": "Safflower Oil",
+    "aliases": ["Carthamus Tinctorius Oil"],
+    "rating": 2
+  },
+  {
+    "name": "Stearic Acid",
+    "aliases": ["Stearic Acid TEA", "TEA Stearate"],
+    "rating": 2
+  },
+  {
+    "name": "Caprylic Acid",
+    "aliases": [],
+    "rating": 1
+  },
+  {
+    "name": "Beta Carotene",
+    "aliases": [],
+    "rating": 1
+  },
+  {
+    "name": "Butylene Glycol",
+    "aliases": [],
+    "rating": 1
+  },
+  {
+    "name": "Calendula",
+    "aliases": ["Calendula Officinalis"],
+    "rating": 1
+  },
+  {
+    "name": "Candelilla Wax",
+    "aliases": ["Euphorbia Cerifera Wax"],
+    "rating": 1
+  },
+  {
+    "name": "Carnauba Wax",
+    "aliases": ["Carnuba Wax", "Copernicia Cerifera Wax"],
+    "rating": 1
+  },
+  {
+    "name": "D&C Red #4",
+    "aliases": ["D & C Red # 4"],
+    "rating": 1
+  },
+  {
+    "name": "D&C Red #6",
+    "aliases": ["D & C Red # 6"],
+    "rating": 1
+  },
+  {
+    "name": "D&C Red #7",
+    "aliases": ["D & C Red # 7"],
+    "rating": 1
+  },
+  {
+    "name": "D&C Red #9",
+    "aliases": ["D & C Red # 9"],
+    "rating": 1
+  },
+  {
+    "name": "Dimethicone",
+    "aliases": ["Polydimethylsiloxane"],
+    "rating": 1
+  },
+  {
+    "name": "Glyceryl Stearate NSE",
+    "aliases": [],
+    "rating": 1
+  },
+  {
+    "name": "Lanolin Oil",
+    "aliases": ["Wool Fat"],
+    "rating": 1
+  },
+  {
+    "name": "Lanolin Wax",
+    "aliases": [],
+    "rating": 1
+  },
+  {
+    "name": "Lithium Stearate",
+    "aliases": ["Lithiumm Stearate"],
+    "rating": 1
+  },
+  {
+    "name": "Magnesium Stearate",
+    "aliases": [],
+    "rating": 1
+  },
+  {
+    "name": "PEG-100 Stearate",
+    "aliases": ["PEG 100 Stearate"],
+    "rating": 1
+  },
+  {
+    "name": "Polyethylene Glycol",
+    "aliases": ["PEG 400", "Polyethylene Glycol (PEG 400)"],
+    "rating": 1
+  },
+  {
+    "name": "Simethicone",
+    "aliases": [],
+    "rating": 1
+  },
+  {
+    "name": "Squalene",
+    "aliases": ["Shark Squalene", "Shark Liver Oil"],
+    "rating": 1
+  },
+  {
+    "name": "Talc",
+    "aliases": ["Talcum", "Hydrous Magnesium Silicate"],
+    "rating": 1
+  },
+  {
+    "name": "Zinc Oxide",
+    "aliases": [],
+    "rating": 1
+  }
+]

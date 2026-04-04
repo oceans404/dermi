@@ -1,0 +1,170 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Pore-Clogging Ingredient Checker API",
+    "version": "1.0.0",
+    "description": "API to check skincare ingredients for pore-clogging potential"
+  },
+  "paths": {
+    "/check-skincare-ingredients": {
+      "post": {
+        "summary": "Check ingredients for pore-clogging potential",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": ["ingredients"],
+                "properties": {
+                  "ingredients": {
+                    "type": "array",
+                    "items": { "type": "string" },
+                    "description": "List of ingredient names to check (max 20, silently truncated)"
+                  }
+                },
+                "example": {
+                  "ingredients": [
+                    "coconut oil",
+                    "niacinamide",
+                    "cocoa butter",
+                    "isopropyl myristate",
+                    "glycerin",
+                    "shea butter"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Check results",
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "#/components/schemas/CheckResponse" }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid input",
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "#/components/schemas/ApiError" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/health": {
+      "get": {
+        "summary": "Health check",
+        "responses": {
+          "200": {
+            "description": "Service is healthy",
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "#/components/schemas/HealthResponse" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/meta": {
+      "get": {
+        "summary": "Dataset metadata",
+        "responses": {
+          "200": {
+            "description": "Metadata about the ingredient dataset",
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "#/components/schemas/MetaResponse" }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "CheckResponse": {
+        "type": "object",
+        "properties": {
+          "flagged": {
+            "type": "array",
+            "items": { "$ref": "#/components/schemas/FlaggedIngredient" }
+          },
+          "total_checked": { "type": "integer" }
+        }
+      },
+      "FlaggedIngredient": {
+        "type": "object",
+        "properties": {
+          "input": { "type": "string" },
+          "matched": { "type": "string" },
+          "rating": { "type": "integer", "nullable": true },
+          "rating_confidence": {
+            "type": "string",
+            "nullable": true,
+            "enum": ["high", "medium", "low", null]
+          },
+          "fuzzy": { "type": "boolean" },
+          "sources": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        }
+      },
+      "HealthResponse": {
+        "type": "object",
+        "properties": {
+          "status": { "type": "string", "enum": ["ok"] },
+          "timestamp": { "type": "string", "format": "date-time" }
+        }
+      },
+      "MetaResponse": {
+        "type": "object",
+        "properties": {
+          "dataset_version": { "type": "string" },
+          "total_ingredients": { "type": "integer" },
+          "rating_scale": {
+            "type": "object",
+            "properties": {
+              "min": { "type": "integer" },
+              "max": { "type": "integer" },
+              "description": { "type": "string" }
+            }
+          },
+          "sources": {
+            "type": "array",
+            "items": { "$ref": "#/components/schemas/SourceMeta" }
+          },
+          "fuzzy_match_threshold": { "type": "integer" }
+        }
+      },
+      "SourceMeta": {
+        "type": "object",
+        "properties": {
+          "id": { "type": "string" },
+          "name": { "type": "string" },
+          "provides_rating": { "type": "boolean" }
+        }
+      },
+      "ApiError": {
+        "type": "object",
+        "properties": {
+          "error": {
+            "type": "object",
+            "properties": {
+              "code": { "type": "string", "enum": ["INVALID_INPUT", "INTERNAL_ERROR"] },
+              "message": { "type": "string" }
+            }
+          }
+        }
+      }
+    }
+  }
+}

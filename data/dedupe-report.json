@@ -1,0 +1,923 @@
+{
+  "pairs": [
+    {
+      "a": "Polyglyceryl Diisostearate",
+      "b": "Polyglyceryl-3 Diisostearate",
+      "similarity": 96,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "Polyglyceryl-2 Isostearate",
+      "b": "Polyglyceryl-4 Isostearate",
+      "similarity": 96,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "Polyglyceryl 3-Diisostearate",
+      "b": "Polyglyceryl Diisostearate",
+      "similarity": 96,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "Olive Oil",
+      "b": "Olive Oil PEG 7 Esters",
+      "similarity": 95,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "Glyceryl Stearate NSE",
+      "b": "Glyceryl Stearate SE",
+      "similarity": 95,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "Sodium Laureth Sulfate",
+      "b": "Sodium Lauryl Sulfate",
+      "similarity": 95,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "Ceteareth 6 Olivate",
+      "b": "Ceteareth-6 Olivate",
+      "similarity": 95,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "Colloidal Sulfur",
+      "b": "Water-Soluble Sulfur",
+      "similarity": 95,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "Peach Kernel Oil",
+      "b": "Peach Kernel Oils",
+      "similarity": 94,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "PEG-100 Distearate",
+      "b": "PEG-150 Distearate",
+      "similarity": 94,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "Isopropyl Lanolate",
+      "b": "Isopropyl Linoleate",
+      "similarity": 94,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "Palmaria Palmata",
+      "b": "Palmaria Palmata Extract",
+      "similarity": 94,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "Capric Acid in Sunflower Oil",
+      "b": "Lauric Acid in Sunflower Oil",
+      "similarity": 93,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "Canola Oil",
+      "b": "Grapeseed Oil",
+      "similarity": 92,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "Ratanjot Oil",
+      "b": "Ratanjyot Oil",
+      "similarity": 92,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "Lanolic Acid",
+      "b": "Lanolin Acid",
+      "similarity": 92,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "Polyglyceryl 4-Isostearate",
+      "b": "Polyglyceryl Diisostearate",
+      "similarity": 92,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "Steareth-10",
+      "b": "Steareth-20",
+      "similarity": 91,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "Steareth-2",
+      "b": "Steareth-20",
+      "similarity": 91,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "D & C Red # 30",
+      "b": "D & C Red # 36",
+      "similarity": 90,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "D & C Red # 30",
+      "b": "D & C Red 33",
+      "similarity": 90,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "D & C Red # 30",
+      "b": "D & C Red 40",
+      "similarity": 90,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "D & C Red # 30",
+      "b": "D&C Red #3",
+      "similarity": 90,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "D & C Red # 36",
+      "b": "D & C Red 33",
+      "similarity": 90,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "D & C Red # 36",
+      "b": "D&C Red #3",
+      "similarity": 90,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "D & C Red # 36",
+      "b": "D&C Red #6",
+      "similarity": 90,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "D & C Red 27",
+      "b": "D&C Red #17",
+      "similarity": 90,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "D & C Red 27",
+      "b": "D&C Red #21",
+      "similarity": 90,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "D & C Red 27",
+      "b": "D&C Red #7",
+      "similarity": 90,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "D & C Red 33",
+      "b": "D&C Red #3",
+      "similarity": 90,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "D & C Red 40",
+      "b": "D&C Red #4",
+      "similarity": 90,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "D&C Red #17",
+      "b": "D&C Red #19",
+      "similarity": 90,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "D&C Red #17",
+      "b": "D&C Red #7",
+      "similarity": 90,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "D&C Red #19",
+      "b": "D&C Red #9",
+      "similarity": 90,
+      "suggested_action": "merge"
+    },
+    {
+      "a": "D&C Red #3",
+      "b": "D&C Red #4",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red #3",
+      "b": "D&C Red #6",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red #3",
+      "b": "D&C Red #7",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red #3",
+      "b": "D&C Red #9",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red #4",
+      "b": "D&C Red #6",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red #4",
+      "b": "D&C Red #7",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red #4",
+      "b": "D&C Red #9",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red #6",
+      "b": "D&C Red #7",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red #6",
+      "b": "D&C Red #9",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red #7",
+      "b": "D&C Red #9",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Acetylated Lanolin",
+      "b": "Acetylated Lanolin Alcohol",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red No. 1 (Red 1)",
+      "b": "D&C Red No. 17 (Red 17)",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red No. 1 (Red 1)",
+      "b": "D&C Red No. 19 (Red 19)",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red No. 1 (Red 1)",
+      "b": "D&C Red No. 21 (Red 21)",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red No. 17 (Red 17)",
+      "b": "D&C Red No. 19 (Red 19)",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red No. 17 (Red 17)",
+      "b": "D&C Red No. 27 (Red 27)",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red No. 2 (Red 2)",
+      "b": "D&C Red No. 21 (Red 21)",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red No. 2 (Red 2)",
+      "b": "D&C Red No. 27 (Red 27)",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red No. 21 (Red 21)",
+      "b": "D&C Red No. 27 (Red 27)",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red No. 3 (Red 3)",
+      "b": "D&C Red No. 30 (Red 30)",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red No. 3 (Red 3)",
+      "b": "D&C Red No. 36 (Red 36)",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red No. 30 (Red 30)",
+      "b": "D&C Red No. 36 (Red 36)",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red No. 30 (Red 30)",
+      "b": "D&C Red No. 40 (Red 40)",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red No. 4 (Red 4)",
+      "b": "D&C Red No. 40 (Red 40)",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "PEG-100 Distearate",
+      "b": "PEG-100 Stearate",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Laureth-4",
+      "b": "Laureth-7",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Polyglyceryl 3-Diisostearate",
+      "b": "Polyglyceryl 4-Isostearate",
+      "similarity": 89,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Pilu Oil",
+      "b": "Pisu Oil",
+      "similarity": 88,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Cetearyl Alcohol",
+      "b": "Stearyl Alcohol",
+      "similarity": 88,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red No. 1 (Red 1)",
+      "b": "D&C Red No. 2 (Red 2)",
+      "similarity": 88,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red No. 1 (Red 1)",
+      "b": "D&C Red No. 3 (Red 3)",
+      "similarity": 88,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red No. 1 (Red 1)",
+      "b": "D&C Red No. 4 (Red 4)",
+      "similarity": 88,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red No. 2 (Red 2)",
+      "b": "D&C Red No. 3 (Red 3)",
+      "similarity": 88,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red No. 2 (Red 2)",
+      "b": "D&C Red No. 4 (Red 4)",
+      "similarity": 88,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red No. 3 (Red 3)",
+      "b": "D&C Red No. 4 (Red 4)",
+      "similarity": 88,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "C13-14 Isoparaffin",
+      "b": "C73-74 Isoparaffin",
+      "similarity": 88,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Sorbitan Oleate",
+      "b": "Sorbitan Olivate",
+      "similarity": 88,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "PEG-16 Lanolin",
+      "b": "PEG-75 Lanolin",
+      "similarity": 86,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Butyl Stearate",
+      "b": "Octyl Stearate",
+      "similarity": 86,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Sodium Laureth Sulfate",
+      "b": "Sodium Myreth Sulfate",
+      "similarity": 86,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Capric Acid",
+      "b": "Caprylic Acid",
+      "similarity": 85,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Cetrimonium Bromide",
+      "b": "Myrtrimonium Bromide",
+      "similarity": 85,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Glyceryl-3 Diisostearate",
+      "b": "Polyglyceryl-3 Diisostearate",
+      "similarity": 85,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Glyceryl-3 Diisostearate",
+      "b": "Polyglyceryl 3-Diisostearate",
+      "similarity": 85,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Capea Biruncinata Var. Denuda Sonder",
+      "b": "Capea Biruncinata Var. Elongata Sonder",
+      "similarity": 84,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Camelina Oil",
+      "b": "Camellia Oil",
+      "similarity": 83,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Lime Butter",
+      "b": "Olive Oil",
+      "similarity": 83,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Ceteareth-20",
+      "b": "Steareth-20",
+      "similarity": 83,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "PEG-100 Stearate",
+      "b": "PEG-150 Distearate",
+      "similarity": 83,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Hazelnut Seed Oil",
+      "b": "Walnut Seed Oil",
+      "similarity": 82,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Isocetyl Stearate",
+      "b": "Octyl Stearate",
+      "similarity": 82,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Capric Acid",
+      "b": "Lauric Acid",
+      "similarity": 82,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Steareth-10",
+      "b": "Steareth-2",
+      "similarity": 82,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Palm Oil",
+      "b": "Peach Kernel Oil",
+      "similarity": 81,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Cetearyl Alcohol",
+      "b": "Cetyl Alcohol",
+      "similarity": 81,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Cetyl Alcohol",
+      "b": "Isocetyl Alcohol",
+      "similarity": 81,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "PEG-100 Stearate",
+      "b": "PEG-8 Stearate",
+      "similarity": 81,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Glyceryl-3 Diisostearate",
+      "b": "Polyglyceryl Diisostearate",
+      "similarity": 81,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red # 30",
+      "b": "D & C Red 27",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red # 30",
+      "b": "D&C Red #17",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red # 30",
+      "b": "D&C Red #19",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red # 30",
+      "b": "D&C Red #21",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red # 30",
+      "b": "D&C Red #4",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red # 30",
+      "b": "D&C Red #6",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red # 30",
+      "b": "D&C Red #7",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red # 30",
+      "b": "D&C Red #9",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red # 36",
+      "b": "D & C Red 27",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red # 36",
+      "b": "D & C Red 40",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red # 36",
+      "b": "D&C Red #17",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red # 36",
+      "b": "D&C Red #19",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red # 36",
+      "b": "D&C Red #21",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red # 36",
+      "b": "D&C Red #4",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red # 36",
+      "b": "D&C Red #7",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red # 36",
+      "b": "D&C Red #9",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red 27",
+      "b": "D & C Red 33",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red 27",
+      "b": "D & C Red 40",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red 27",
+      "b": "D&C Red #19",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red 27",
+      "b": "D&C Red #3",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red 27",
+      "b": "D&C Red #4",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red 27",
+      "b": "D&C Red #6",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red 27",
+      "b": "D&C Red #9",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red 33",
+      "b": "D & C Red 40",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red 33",
+      "b": "D&C Red #17",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red 33",
+      "b": "D&C Red #19",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red 33",
+      "b": "D&C Red #21",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red 33",
+      "b": "D&C Red #4",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red 33",
+      "b": "D&C Red #6",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red 33",
+      "b": "D&C Red #7",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red 33",
+      "b": "D&C Red #9",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red 40",
+      "b": "D&C Red #17",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red 40",
+      "b": "D&C Red #19",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red 40",
+      "b": "D&C Red #21",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red 40",
+      "b": "D&C Red #3",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red 40",
+      "b": "D&C Red #6",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red 40",
+      "b": "D&C Red #7",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D & C Red 40",
+      "b": "D&C Red #9",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red #17",
+      "b": "D&C Red #21",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red #17",
+      "b": "D&C Red #3",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red #17",
+      "b": "D&C Red #4",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red #17",
+      "b": "D&C Red #6",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red #17",
+      "b": "D&C Red #9",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red #19",
+      "b": "D&C Red #21",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red #19",
+      "b": "D&C Red #3",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red #19",
+      "b": "D&C Red #4",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red #19",
+      "b": "D&C Red #6",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red #19",
+      "b": "D&C Red #7",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red #21",
+      "b": "D&C Red #3",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red #21",
+      "b": "D&C Red #4",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red #21",
+      "b": "D&C Red #6",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red #21",
+      "b": "D&C Red #7",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "D&C Red #21",
+      "b": "D&C Red #9",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Isostearic Acid",
+      "b": "Stearic Acid",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Decyl Oleate",
+      "b": "Isodecyl Oleate",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Laureth-12",
+      "b": "Laureth-23",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Laureth-12",
+      "b": "Laureth-4",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Laureth-12",
+      "b": "Laureth-7",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Laureth-23",
+      "b": "Laureth-4",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Laureth-23",
+      "b": "Laureth-7",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    },
+    {
+      "a": "Monostearate",
+      "b": "Propylene Glycol Monostearate",
+      "similarity": 80,
+      "suggested_action": "add_alias"
+    }
+  ],
+  "generated_at": "2026-04-03T22:00:19.543Z"
+}

@@ -1,0 +1,107 @@
+{
+  "exact": {
+    "coconut oil": 0,
+    "cocos nucifera oil": 0,
+    "cocos nucifera coconut oil": 0,
+    "isopropyl myristate": 1,
+    "ipm": 1,
+    "algae extract": 2,
+    "algae": 2,
+    "wheat germ oil": 3,
+    "triticum vulgare": 3,
+    "cocoa butter": 4,
+    "theobroma cacao seed butter": 4,
+    "sodium lauryl sulfate": 5,
+    "sls": 5,
+    "cetearyl olivate": 6,
+    "lauric acid": 7,
+    "dodecanoic acid": 7
+  },
+  "tokens": {
+    "coconut": [0],
+    "oil": [0, 3],
+    "cocos": [0],
+    "nucifera": [0],
+    "isopropyl": [1],
+    "myristate": [1],
+    "ipm": [1],
+    "algae": [2],
+    "extract": [2],
+    "wheat": [3],
+    "germ": [3],
+    "triticum": [3],
+    "vulgare": [3],
+    "cocoa": [4],
+    "butter": [4],
+    "theobroma": [4],
+    "cacao": [4],
+    "seed": [4],
+    "sodium": [5],
+    "lauryl": [5],
+    "sulfate": [5],
+    "sls": [5],
+    "cetearyl": [6],
+    "olivate": [6],
+    "lauric": [7],
+    "acid": [7],
+    "dodecanoic": [7]
+  },
+  "ingredients": [
+    {
+      "name": "Coconut Oil",
+      "aliases": ["Cocos Nucifera Oil", "Cocos Nucifera (Coconut) Oil"],
+      "rating": 4,
+      "rating_confidence": "high",
+      "sources": ["fulton_1989", "emme_diane"]
+    },
+    {
+      "name": "Isopropyl Myristate",
+      "aliases": ["IPM"],
+      "rating": 5,
+      "rating_confidence": "high",
+      "sources": ["fulton_1989", "emme_diane"]
+    },
+    {
+      "name": "Algae Extract",
+      "aliases": ["Algae"],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": ["fulton_1989"]
+    },
+    {
+      "name": "Wheat Germ Oil",
+      "aliases": ["Triticum Vulgare"],
+      "rating": 5,
+      "rating_confidence": "medium",
+      "sources": ["fulton_1989"]
+    },
+    {
+      "name": "Cocoa Butter",
+      "aliases": ["Theobroma Cacao Seed Butter"],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": ["clearstem"]
+    },
+    {
+      "name": "Sodium Lauryl Sulfate",
+      "aliases": ["SLS"],
+      "rating": 1,
+      "rating_confidence": "medium",
+      "sources": ["emme_diane", "clearstem"]
+    },
+    {
+      "name": "Cetearyl Olivate",
+      "aliases": [],
+      "rating": null,
+      "rating_confidence": null,
+      "sources": ["clearstem"]
+    },
+    {
+      "name": "Lauric Acid",
+      "aliases": ["Dodecanoic Acid"],
+      "rating": 4,
+      "rating_confidence": "low",
+      "sources": ["fulton_1989", "emme_diane"]
+    }
+  ]
+}
