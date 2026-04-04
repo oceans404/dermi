@@ -1,6 +1,16 @@
 # 🫧 Dermi
 
-**Your agent's dermatologist. A one penny `/check-skincare-ingredients` x402 call to make sure your agent isn't buying you a product that will clog your pores.**
+**Your agent's dermatologist. A one penny `/check-skincare-ingredients` x402 call to make sure your agent isn't spending your hard earned $ on a skincare product that will clog your pores.**
+
+> **OWS Hackathon Submission** — Track 03: Pay-Per-Call Services & API Monetization
+>
+> *Opportunity 02: Pay-per-query database* — A curated comedogenic ingredient dataset compiled from dermatological studies, clinical research (Fulton 1989), and modern practitioner databases (Emme Diane, ClearStem) — merged, deduplicated, and cross-referenced into a single searchable index behind x402. Every query costs $0.01. No API keys, no accounts, no subscriptions — just a wallet and an HTTP request.
+>
+> | Network | OWS | Price | Agent Guide |
+> |---------|-----|-------|-------------|
+> | Base Sepolia (testnet) | [oceans404/core](https://github.com/oceans404/core) | $0.01 USDC | [Quick Start](DermiForAgentsOnBaseTestnet.md) |
+> | Stellar testnet | [oceans404/core](https://github.com/oceans404/core) (my fork — [details below](#ows-on-stellar)) | $0.01 USDC | [Quick Start](DermiForAgentsOnStellarTestnet.md) |
+> | Stellar mainnet | [oceans404/core](https://github.com/oceans404/core) (my fork — [details below](#ows-on-stellar)) | $0.01 USDC | [Quick Start](DermiForAgentsOnStellarMainnet.md) |
 
 The global skincare market is worth [$190 billion](https://www.precedenceresearch.com/skincare-market) and growing. We'll spend $45 on a serum because an influencer said so, but we won't spend one penny to verify the ingredients are safe for our skin.
 
