@@ -31,9 +31,27 @@ export async function createApp(index: CompiledIndex): Promise<express.Express> 
     const { facilitator: payaiFacilitator } = await import("@payai/facilitator");
 
     // PayAI first for Bazaar discovery (auto-detects PAYAI_API_KEY_* env vars), x402.org for Stellar testnet, OZ for Stellar mainnet
+    console.log("[x402] PayAI facilitator config:", JSON.stringify(payaiFacilitator));
+    const payaiClient = new HTTPFacilitatorClient(payaiFacilitator);
+    const x402Client = new HTTPFacilitatorClient({ url: "https://www.x402.org/facilitator" });
+
+    // Log what each facilitator supports
+    try {
+      const payaiSupported = await payaiClient.getSupported();
+      console.log("[x402] PayAI supported networks:", JSON.stringify(payaiSupported.kinds?.map((k: any) => `v${k.x402Version}:${k.network}`)));
+    } catch (e: any) {
+      console.log("[x402] PayAI supported() failed:", e.message);
+    }
+    try {
+      const x402Supported = await x402Client.getSupported();
+      console.log("[x402] x402.org supported networks:", JSON.stringify(x402Supported.kinds?.map((k: any) => `v${k.x402Version}:${k.network}`)));
+    } catch (e: any) {
+      console.log("[x402] x402.org supported() failed:", e.message);
+    }
+
     const facilitators: InstanceType<typeof HTTPFacilitatorClient>[] = [
-      new HTTPFacilitatorClient(payaiFacilitator),
-      new HTTPFacilitatorClient({ url: "https://www.x402.org/facilitator" }),
+      payaiClient,
+      x402Client,
     ];
 
     if (ozFacilitatorUrl && ozApiKey) {
