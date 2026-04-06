@@ -30,10 +30,10 @@ export async function createApp(index: CompiledIndex): Promise<express.Express> 
     const { bazaarResourceServerExtension, declareDiscoveryExtension } = await import("@x402/extensions/bazaar");
     const { facilitator: payaiFacilitator } = await import("@payai/facilitator");
 
-    // PayAI first for Bazaar discovery (auto-detects PAYAI_API_KEY_* env vars), x402.org as fallback, OZ for Stellar mainnet
+    // PayAI first for Bazaar discovery (auto-detects PAYAI_API_KEY_* env vars), x402.org for Stellar testnet, OZ for Stellar mainnet
     const facilitators: InstanceType<typeof HTTPFacilitatorClient>[] = [
       new HTTPFacilitatorClient(payaiFacilitator),
-      // new HTTPFacilitatorClient({ url: "https://www.x402.org/facilitator" }),
+      new HTTPFacilitatorClient({ url: "https://www.x402.org/facilitator" }),
     ];
 
     if (ozFacilitatorUrl && ozApiKey) {
