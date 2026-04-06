@@ -125,45 +125,50 @@ export async function createApp(index: CompiledIndex): Promise<express.Express> 
           dataSources: ["Fulton 1989", "Emme Diane", "ClearStem"],
         },
         extensions: {
-          ...declareDiscoveryExtension({
-            bodyType: "json",
-            input: {
-              ingredients: ["coconut oil", "niacinamide", "isopropyl myristate", "glycerin"],
-            },
-            inputSchema: {
-              properties: {
-                ingredients: {
-                  type: "array",
-                  items: { type: "string" },
-                  description: "List of skincare or makeup ingredient names to check for comedogenic ratings (max 20)",
+          bazaar: {
+            discoverable: true,
+            category: "api",
+            tags: ["skincare", "makeup", "cosmetics", "ingredients", "comedogenic", "pore-clogging", "dermatology", "health", "agent", "x402"],
+            ...declareDiscoveryExtension({
+              bodyType: "json",
+              input: {
+                ingredients: ["coconut oil", "niacinamide", "isopropyl myristate", "glycerin"],
+              },
+              inputSchema: {
+                properties: {
+                  ingredients: {
+                    type: "array",
+                    items: { type: "string" },
+                    description: "List of skincare or makeup ingredient names to check for comedogenic ratings (max 20)",
+                  },
+                },
+                required: ["ingredients"],
+              },
+              output: {
+                example: {
+                  flagged: [
+                    {
+                      input: "coconut oil",
+                      matched: "Coconut Oil",
+                      rating: 4,
+                      rating_confidence: "high",
+                      fuzzy: false,
+                      sources: ["fulton_1989", "emme_diane", "clearstem"],
+                    },
+                    {
+                      input: "isopropyl myristate",
+                      matched: "Isopropyl Myristate",
+                      rating: 5,
+                      rating_confidence: "high",
+                      fuzzy: false,
+                      sources: ["fulton_1989"],
+                    },
+                  ],
+                  total_checked: 4,
                 },
               },
-              required: ["ingredients"],
-            },
-            output: {
-              example: {
-                flagged: [
-                  {
-                    input: "coconut oil",
-                    matched: "Coconut Oil",
-                    rating: 4,
-                    rating_confidence: "high",
-                    fuzzy: false,
-                    sources: ["fulton_1989", "emme_diane", "clearstem"],
-                  },
-                  {
-                    input: "isopropyl myristate",
-                    matched: "Isopropyl Myristate",
-                    rating: 5,
-                    rating_confidence: "high",
-                    fuzzy: false,
-                    sources: ["fulton_1989"],
-                  },
-                ],
-                total_checked: 4,
-              },
-            },
-          }),
+            }).bazaar,
+          },
         },
       },
     };
