@@ -200,26 +200,32 @@ export async function createApp(index: CompiledIndex): Promise<express.Express> 
 
     await resourceServer.initialize();
 
-    // Patch 402 responses to include v1 discovery fields in PAYMENT-REQUIRED header
-    // Must be registered BEFORE paymentMiddleware so it can intercept setHeader calls
+    // Patch 402 responses to inject v1 discovery fields into PAYMENT-REQUIRED header
+    // Only patches when there's no X-PAYMENT header (unpaid initial request)
     app.use((req, res, next) => {
-      const originalSetHeader = res.setHeader.bind(res);
-      res.setHeader = (name: string, value: any) => {
-        if (name === "PAYMENT-REQUIRED" && typeof value === "string") {
-          try {
-            const decoded = JSON.parse(Buffer.from(value, "base64").toString());
-            if (decoded.accepts) {
-              decoded.accepts = decoded.accepts.map((a: any) => ({
-                ...a,
-                ...v1Discovery,
-                resource: `https://dermi-znuq.onrender.com/check-skincare-ingredients`,
-              }));
+      if (!req.headers["x-payment"]) {
+        const originalWriteHead = res.writeHead.bind(res);
+        res.writeHead = function(statusCode: number, ...args: any[]) {
+          if (statusCode === 402) {
+            const header = res.getHeader("payment-required") || res.getHeader("PAYMENT-REQUIRED");
+            if (header && typeof header === "string") {
+              try {
+                const decoded = JSON.parse(Buffer.from(header, "base64").toString());
+                if (decoded.accepts) {
+                  decoded.accepts = decoded.accepts.map((a: any) => ({
+                    ...a,
+                    ...v1Discovery,
+                    resource: "https://dermi-znuq.onrender.com/check-skincare-ingredients",
+                  }));
+                }
+                const patched = Buffer.from(JSON.stringify(decoded)).toString("base64");
+                res.setHeader("PAYMENT-REQUIRED", patched);
+              } catch { /* pass through if decode fails */ }
             }
-            value = Buffer.from(JSON.stringify(decoded)).toString("base64");
-          } catch { /* pass through if decode fails */ }
-        }
-        return originalSetHeader(name, value);
-      };
+          }
+          return originalWriteHead(statusCode, ...args);
+        } as any;
+      }
       next();
     });
 
