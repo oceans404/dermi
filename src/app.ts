@@ -113,6 +113,7 @@ export async function createApp(index: CompiledIndex): Promise<express.Express> 
     const routes: Record<string, any> = {
       "POST /check-skincare-ingredients": {
         accepts,
+        resource: "https://dermi-znuq.onrender.com/check-skincare-ingredients",
         description: `Check skincare ingredients for pore-clogging compounds — ${checkPrice} USDC`,
         metadata: {
           category: "health",
