@@ -116,7 +116,7 @@ export async function createApp(index: CompiledIndex): Promise<express.Express> 
       "POST /check-skincare-ingredients": {
         accepts,
         resource: "https://dermi-znuq.onrender.com/check-skincare-ingredients",
-        description: `Check skincare and makeup ingredients for pore-clogging (comedogenic) compounds — ${checkPrice} USDC`,
+        description: `Check skincare and makeup ingredients for pore-clogging (comedogenic) compounds - ${checkPrice} USDC`,
         mimeType: "application/json",
         metadata: {
           category: "health",
