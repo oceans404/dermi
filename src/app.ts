@@ -30,28 +30,10 @@ export async function createApp(index: CompiledIndex): Promise<express.Express> 
     const { bazaarResourceServerExtension, declareDiscoveryExtension } = await import("@x402/extensions/bazaar");
     const { facilitator: payaiFacilitator } = await import("@payai/facilitator");
 
-    // PayAI first for Bazaar discovery (auto-detects PAYAI_API_KEY_* env vars), x402.org for Stellar testnet, OZ for Stellar mainnet
-    console.log("[x402] PayAI facilitator config:", JSON.stringify(payaiFacilitator));
-    const payaiClient = new HTTPFacilitatorClient(payaiFacilitator);
-    const x402Client = new HTTPFacilitatorClient({ url: "https://www.x402.org/facilitator" });
-
-    // Log what each facilitator supports
-    try {
-      const payaiSupported = await payaiClient.getSupported();
-      console.log("[x402] PayAI supported networks:", JSON.stringify(payaiSupported.kinds?.map((k: any) => `v${k.x402Version}:${k.network}`)));
-    } catch (e: any) {
-      console.log("[x402] PayAI supported() failed:", e.message);
-    }
-    try {
-      const x402Supported = await x402Client.getSupported();
-      console.log("[x402] x402.org supported networks:", JSON.stringify(x402Supported.kinds?.map((k: any) => `v${k.x402Version}:${k.network}`)));
-    } catch (e: any) {
-      console.log("[x402] x402.org supported() failed:", e.message);
-    }
-
+    // PayAI first for Bazaar discovery, x402.org for Stellar testnet, OZ for Stellar mainnet
     const facilitators: InstanceType<typeof HTTPFacilitatorClient>[] = [
-      payaiClient,
-      x402Client,
+      new HTTPFacilitatorClient(payaiFacilitator),
+      new HTTPFacilitatorClient({ url: "https://www.x402.org/facilitator" }),
     ];
 
     if (ozFacilitatorUrl && ozApiKey) {
@@ -81,33 +63,6 @@ export async function createApp(index: CompiledIndex): Promise<express.Express> 
 
     const serviceDescription = "Check skincare and makeup ingredients for pore-clogging (comedogenic) compounds. Send up to 20 ingredient names, get back flagged ingredients with comedogenic ratings (0-5), confidence levels, and sources. Powered by Fulton 1989, Emme Diane, and ClearStem datasets.";
 
-    // v1-style outputSchema for PayAI Bazaar compatibility
-    const v1OutputSchema = {
-      input: {
-        type: "http",
-        method: "POST",
-        discoverable: true,
-        bodyType: "json",
-        bodyFields: {
-          ingredients: {
-            type: "array",
-            required: true,
-            description: "List of skincare or makeup ingredient names to check for comedogenic ratings (max 20)",
-          },
-        },
-      },
-      output: {
-        flagged: {
-          type: "array",
-          description: "Ingredients flagged as comedogenic, each with input, matched name, rating (0-5), rating_confidence (high/medium/low/null), fuzzy match boolean, and sources",
-        },
-        total_checked: {
-          type: "number",
-          description: "Total number of ingredients checked",
-        },
-      },
-    };
-
     const accepts: any[] = [];
 
     // Testnet options
@@ -119,7 +74,6 @@ export async function createApp(index: CompiledIndex): Promise<express.Express> 
         payTo: stellarAddr,
         description: serviceDescription,
         mimeType: "application/json",
-        outputSchema: v1OutputSchema,
         extra: { areFeesSponsored: true },
       });
     }
@@ -131,7 +85,6 @@ export async function createApp(index: CompiledIndex): Promise<express.Express> 
         payTo: evmAddr,
         description: serviceDescription,
         mimeType: "application/json",
-        outputSchema: v1OutputSchema,
       });
     }
 
@@ -144,7 +97,6 @@ export async function createApp(index: CompiledIndex): Promise<express.Express> 
         payTo: evmAddr,
         description: serviceDescription,
         mimeType: "application/json",
-        outputSchema: v1OutputSchema,
       });
     }
     if (stellarMainnetAddr) {
@@ -155,7 +107,6 @@ export async function createApp(index: CompiledIndex): Promise<express.Express> 
         payTo: stellarMainnetAddr,
         description: serviceDescription,
         mimeType: "application/json",
-        outputSchema: v1OutputSchema,
       });
     }
 
