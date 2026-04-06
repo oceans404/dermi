@@ -18,9 +18,11 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
+    "@payai/facilitator": "^2.3.6",
     "@x402/core": "^2.9.0",
     "@x402/evm": "^2.9.0",
     "@x402/express": "^2.9.0",
+    "@x402/extensions": "^2.9.0",
     "@x402/stellar": "^2.9.0",
     "cors": "^2.8.6",
     "dotenv": "^17.4.0",

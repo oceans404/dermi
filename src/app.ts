@@ -27,10 +27,13 @@ export async function createApp(index: CompiledIndex): Promise<express.Express> 
     const { ExactEvmScheme } = await import("@x402/evm/exact/server");
     const { ExactStellarScheme } = await import("@x402/stellar/exact/server");
     const { HTTPFacilitatorClient } = await import("@x402/core/server");
+    const { bazaarResourceServerExtension, declareDiscoveryExtension } = await import("@x402/extensions/bazaar");
+    const { facilitator: payaiFacilitator } = await import("@payai/facilitator");
 
-    // x402.org for testnet, OZ for Stellar mainnet
+    // x402.org for testnet, PayAI for mainnet Bazaar discovery (auto-detects PAYAI_API_KEY_* env vars), OZ for Stellar mainnet
     const facilitators: InstanceType<typeof HTTPFacilitatorClient>[] = [
       new HTTPFacilitatorClient({ url: "https://www.x402.org/facilitator" }),
+      new HTTPFacilitatorClient(payaiFacilitator),
     ];
 
     if (ozFacilitatorUrl && ozApiKey) {
@@ -48,13 +51,17 @@ export async function createApp(index: CompiledIndex): Promise<express.Express> 
     }
 
     const resourceServer = new x402ResourceServer(facilitators);
+    resourceServer.registerExtension(bazaarResourceServerExtension);
 
     // Register testnet schemes
     if (evmAddr) resourceServer.register("eip155:84532", new ExactEvmScheme());
     if (stellarAddr) resourceServer.register("stellar:testnet", new ExactStellarScheme());
 
     // Register mainnet schemes
+    if (evmAddr) resourceServer.register("eip155:8453", new ExactEvmScheme());
     if (stellarMainnetAddr) resourceServer.register("stellar:pubnet", new ExactStellarScheme());
+
+    const serviceDescription = "Check skincare and makeup ingredients for pore-clogging (comedogenic) compounds. Send up to 20 ingredient names, get back flagged ingredients with comedogenic ratings (0-5), confidence levels, and sources. Powered by Fulton 1989, Emme Diane, and ClearStem datasets.";
 
     const accepts: any[] = [];
 
@@ -65,6 +72,8 @@ export async function createApp(index: CompiledIndex): Promise<express.Express> 
         price: checkPrice,
         network: "stellar:testnet",
         payTo: stellarAddr,
+        description: serviceDescription,
+        mimeType: "application/json",
         extra: { areFeesSponsored: true },
       });
     }
@@ -74,16 +83,30 @@ export async function createApp(index: CompiledIndex): Promise<express.Express> 
         price: checkPrice,
         network: "eip155:84532",
         payTo: evmAddr,
+        description: serviceDescription,
+        mimeType: "application/json",
       });
     }
 
     // Mainnet options
+    if (evmAddr) {
+      accepts.push({
+        scheme: "exact",
+        price: checkPrice,
+        network: "eip155:8453",
+        payTo: evmAddr,
+        description: serviceDescription,
+        mimeType: "application/json",
+      });
+    }
     if (stellarMainnetAddr) {
       accepts.push({
         scheme: "exact",
         price: checkPrice,
         network: "stellar:pubnet",
         payTo: stellarMainnetAddr,
+        description: serviceDescription,
+        mimeType: "application/json",
       });
     }
 
@@ -91,6 +114,55 @@ export async function createApp(index: CompiledIndex): Promise<express.Express> 
       "POST /check-skincare-ingredients": {
         accepts,
         description: `Check skincare ingredients for pore-clogging compounds — ${checkPrice} USDC`,
+        metadata: {
+          category: "health",
+          subcategory: "skincare & makeup",
+          provider: "Dermi",
+          tags: ["skincare", "makeup", "cosmetics", "ingredients", "comedogenic", "pore-clogging", "dermatology"],
+          datasetVersion: "1.0",
+          dataSources: ["Fulton 1989", "Emme Diane", "ClearStem"],
+        },
+        extensions: {
+          ...declareDiscoveryExtension({
+            bodyType: "json",
+            input: {
+              ingredients: ["coconut oil", "niacinamide", "isopropyl myristate", "glycerin"],
+            },
+            inputSchema: {
+              properties: {
+                ingredients: {
+                  type: "array",
+                  items: { type: "string" },
+                  description: "List of skincare or makeup ingredient names to check for comedogenic ratings (max 20)",
+                },
+              },
+              required: ["ingredients"],
+            },
+            output: {
+              example: {
+                flagged: [
+                  {
+                    input: "coconut oil",
+                    matched: "Coconut Oil",
+                    rating: 4,
+                    rating_confidence: "high",
+                    fuzzy: false,
+                    sources: ["fulton_1989", "emme_diane", "clearstem"],
+                  },
+                  {
+                    input: "isopropyl myristate",
+                    matched: "Isopropyl Myristate",
+                    rating: 5,
+                    rating_confidence: "high",
+                    fuzzy: false,
+                    sources: ["fulton_1989"],
+                  },
+                ],
+                total_checked: 4,
+              },
+            },
+          }),
+        },
       },
     };
 
