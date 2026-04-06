@@ -28,14 +28,11 @@ export async function createApp(index: CompiledIndex): Promise<express.Express> 
     const { ExactStellarScheme } = await import("@x402/stellar/exact/server");
     const { HTTPFacilitatorClient } = await import("@x402/core/server");
     const { bazaarResourceServerExtension, declareDiscoveryExtension } = await import("@x402/extensions/bazaar");
-    const { facilitator: payaiFacilitator } = await import("@payai/facilitator");
     const { facilitator: cdpFacilitator } = await import("@coinbase/x402");
 
-    // CDP for Bazaar discovery (auto-reads CDP_API_KEY_ID/SECRET from env),
-    // PayAI as second facilitator, x402.org for Stellar testnet, OZ for Stellar mainnet
+    // CDP for Bazaar discovery + EVM payments, x402.org for Stellar testnet, OZ for Stellar mainnet
     const facilitators: InstanceType<typeof HTTPFacilitatorClient>[] = [
       new HTTPFacilitatorClient(cdpFacilitator),
-      new HTTPFacilitatorClient(payaiFacilitator),
       new HTTPFacilitatorClient({ url: "https://www.x402.org/facilitator" }),
     ];
 
