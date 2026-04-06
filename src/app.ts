@@ -515,6 +515,11 @@ export async function createApp(index: CompiledIndex): Promise<express.Express> 
   app.use("/check-skincare-ingredients", checkRouter(index));
   app.use("/health", healthRouter());
   app.use("/meta", metaRouter(index));
+  app.get("/openapi.json", (_req, res) => res.json(spec));
+  app.get("/.well-known/x402", (_req, res) => res.json({
+    version: 1,
+    resources: ["POST /check-skincare-ingredients"],
+  }));
   app.use("/docs", swaggerUi.serve, swaggerUi.setup(spec));
 
   app.use(errorHandler);

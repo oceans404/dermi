@@ -1,9 +1,10 @@
 {
-  "openapi": "3.0.0",
+  "openapi": "3.1.0",
   "info": {
-    "title": "Pore-Clogging Ingredient Checker API",
+    "title": "Dermi — Skincare & Makeup Ingredient Checker",
     "version": "1.0.0",
-    "description": "API to check skincare ingredients for pore-clogging potential"
+    "description": "API to check skincare and makeup ingredients for pore-clogging (comedogenic) potential. Powered by Fulton 1989, Emme Diane, and ClearStem datasets.",
+    "x-guidance": "Dermi checks skincare and makeup ingredients for pore-clogging (comedogenic) compounds. Send a JSON body with an 'ingredients' array of up to 20 ingredient names. Returns flagged ingredients with comedogenic ratings (0-5), confidence levels, and sources. Safe ingredients are omitted from the response. Costs $0.01 USDC per request via x402."
   },
   "paths": {
     "/check-skincare-ingredients": {
@@ -46,6 +47,9 @@
               }
             }
           },
+          "402": {
+            "description": "Payment Required"
+          },
           "400": {
             "description": "Invalid input",
             "content": {
@@ -54,6 +58,14 @@
               }
             }
           }
+        },
+        "x-payment-info": {
+          "price": {
+            "mode": "fixed",
+            "currency": "USD",
+            "amount": "0.01"
+          },
+          "protocols": [{ "x402": {} }]
         }
       }
     },
