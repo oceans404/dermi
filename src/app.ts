@@ -65,30 +65,7 @@ export async function createApp(index: CompiledIndex): Promise<express.Express> 
 
     const accepts: any[] = [];
 
-    // Testnet options
-    if (stellarAddr) {
-      accepts.push({
-        scheme: "exact",
-        price: checkPrice,
-        network: "stellar:testnet",
-        payTo: stellarAddr,
-        description: serviceDescription,
-        mimeType: "application/json",
-        extra: { areFeesSponsored: true },
-      });
-    }
-    if (evmAddr) {
-      accepts.push({
-        scheme: "exact",
-        price: checkPrice,
-        network: "eip155:84532",
-        payTo: evmAddr,
-        description: serviceDescription,
-        mimeType: "application/json",
-      });
-    }
-
-    // Mainnet options
+    // Base mainnet only (for CDP Bazaar testing)
     if (evmAddr) {
       accepts.push({
         scheme: "exact",
@@ -99,16 +76,19 @@ export async function createApp(index: CompiledIndex): Promise<express.Express> 
         mimeType: "application/json",
       });
     }
-    if (stellarMainnetAddr) {
-      accepts.push({
-        scheme: "exact",
-        price: checkPrice,
-        network: "stellar:pubnet",
-        payTo: stellarMainnetAddr,
-        description: serviceDescription,
-        mimeType: "application/json",
-      });
-    }
+
+    // TODO: re-enable after Bazaar indexing is confirmed
+    // // Testnet options
+    // if (stellarAddr) {
+    //   accepts.push({ scheme: "exact", price: checkPrice, network: "stellar:testnet", payTo: stellarAddr, description: serviceDescription, mimeType: "application/json", extra: { areFeesSponsored: true } });
+    // }
+    // if (evmAddr) {
+    //   accepts.push({ scheme: "exact", price: checkPrice, network: "eip155:84532", payTo: evmAddr, description: serviceDescription, mimeType: "application/json" });
+    // }
+    // // Stellar mainnet
+    // if (stellarMainnetAddr) {
+    //   accepts.push({ scheme: "exact", price: checkPrice, network: "stellar:pubnet", payTo: stellarMainnetAddr, description: serviceDescription, mimeType: "application/json" });
+    // }
 
     const routes: Record<string, any> = {
       "POST /check-skincare-ingredients": {
