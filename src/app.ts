@@ -166,7 +166,63 @@ export async function createApp(index: CompiledIndex): Promise<express.Express> 
       },
     };
 
+    // v1-style discovery fields for PayAI Bazaar compatibility
+    // The v2 middleware strips custom fields from accepts, so we inject them into the 402 response
+    const v1Discovery = {
+      description: serviceDescription,
+      mimeType: "application/json",
+      outputSchema: {
+        input: {
+          type: "http",
+          method: "POST",
+          discoverable: true,
+          bodyType: "json",
+          bodyFields: {
+            ingredients: {
+              type: "array",
+              required: true,
+              description: "List of skincare or makeup ingredient names to check for comedogenic ratings (max 20)",
+            },
+          },
+        },
+        output: {
+          flagged: {
+            type: "array",
+            description: "Ingredients flagged as comedogenic, each with input, matched name, rating (0-5), rating_confidence, fuzzy match boolean, and sources",
+          },
+          total_checked: {
+            type: "number",
+            description: "Total number of ingredients checked",
+          },
+        },
+      },
+    };
+
     await resourceServer.initialize();
+
+    // Patch 402 responses to include v1 discovery fields in PAYMENT-REQUIRED header
+    // Must be registered BEFORE paymentMiddleware so it can intercept setHeader calls
+    app.use((req, res, next) => {
+      const originalSetHeader = res.setHeader.bind(res);
+      res.setHeader = (name: string, value: any) => {
+        if (name === "PAYMENT-REQUIRED" && typeof value === "string") {
+          try {
+            const decoded = JSON.parse(Buffer.from(value, "base64").toString());
+            if (decoded.accepts) {
+              decoded.accepts = decoded.accepts.map((a: any) => ({
+                ...a,
+                ...v1Discovery,
+                resource: `https://dermi-znuq.onrender.com/check-skincare-ingredients`,
+              }));
+            }
+            value = Buffer.from(JSON.stringify(decoded)).toString("base64");
+          } catch { /* pass through if decode fails */ }
+        }
+        return originalSetHeader(name, value);
+      };
+      next();
+    });
+
     app.use(paymentMiddleware(routes, resourceServer));
   }
 
